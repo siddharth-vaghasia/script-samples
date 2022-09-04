@@ -171,7 +171,7 @@ Function FilterDateField() {
                                                                     &lt;FieldRef Name='Modified'/&gt;
                                                                 &lt;/ViewFields&gt;
                                                                 &lt;Query&gt;&lt;Where&gt;
-                                                                    &lt;Geq&gt;&lt;FieldRef Name='Modified'/&gt;&lt;Value Type='DateTime'&gt;&lt;Today/&gt;&lt;/Value&gt;&lt;/Eq&gt;&lt;/Where&gt;
+                                                                    &lt;Eq&gt;&lt;FieldRef Name='Modified'/&gt;&lt;Value Type='DateTime'&gt;&lt;Today/&gt;&lt;/Value&gt;&lt;/Eq&gt;&lt;/Where&gt;
                                                                 &lt;/Query&gt;
                                                             &lt;/View&gt;&quot;
 
@@ -342,7 +342,7 @@ $ListName = &quot;ListName&quot;
 
 Function loginToTenant() {
     $m365Status = m365 status
-    if ($m365Status -eq &quot;Logged Out&quot;) {
+    if ($m365Status -match &quot;Logged Out&quot;) {
         m365 login
     }
 }
@@ -380,7 +380,7 @@ Function FilterDateField() {
                                                                     &lt;FieldRef Name='Modified'/&gt;
                                                                 &lt;/ViewFields&gt;
                                                                 &lt;Query&gt;&lt;Where&gt;
-                                                                    &lt;Geq&gt;&lt;FieldRef Name='Modified'/&gt;&lt;Value Type='DateTime'&gt;&lt;Today/&gt;&lt;/Value&gt;&lt;/Eq&gt;&lt;/Where&gt;
+                                                                    &lt;Eq&gt;&lt;FieldRef Name='Modified'/&gt;&lt;Value Type='DateTime'&gt;&lt;Today/&gt;&lt;/Value&gt;&lt;/Eq&gt;&lt;/Where&gt;
                                                                 &lt;/Query&gt;
                                                             &lt;/View&gt;&quot;
 
@@ -555,11 +555,14 @@ Main
 <tr>
 <td><a href="https://github.com/Adam-it">Adam Wójcik</a></td>
 </tr>
+<tr>
+<td>Jago Pauwels</td>
+</tr>
 </tbody>
 </table>
 <h2 id="disclaimer">Disclaimer</h2>
 <p><strong>THESE SAMPLES ARE PROVIDED <em>AS IS</em> WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.</strong></p>
-<img src="https://telemetry.sharepointpnp.com/script-samples/scripts/spo-list-items-with-caml-query" aria-hidden="true">
+<img src="https://pnptelemetry.azurewebsites.net/script-samples/scripts/spo-list-items-with-caml-query" aria-hidden="true">
 </article>
           </div>
         </div>

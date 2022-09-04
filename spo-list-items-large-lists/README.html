@@ -165,7 +165,7 @@ $listName = &quot;LargeListTitle&quot;
 
 
 $m365Status = m365 status
-if ($m365Status -eq &quot;Logged Out&quot;) {
+if ($m365Status -match &quot;Logged Out&quot;) {
   Write-Host &quot;Logging in the User!&quot;
   m365 login --authType browser
 }
@@ -235,7 +235,7 @@ for ($i = 0; $i -lt $pageNumber; $i++)
 </table>
 <h2 id="disclaimer">Disclaimer</h2>
 <p><strong>THESE SAMPLES ARE PROVIDED <em>AS IS</em> WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.</strong></p>
-<img src="https://telemetry.sharepointpnp.com/script-samples/scripts/spo-list-items-large-lists" aria-hidden="true">
+<img src="https://pnptelemetry.azurewebsites.net/script-samples/scripts/spo-list-items-large-lists" aria-hidden="true">
 </article>
           </div>
         </div>

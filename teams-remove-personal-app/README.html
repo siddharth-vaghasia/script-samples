@@ -85,7 +85,7 @@
 <code>manifest.json</code> of the Teams app.</p>
 <div class="WARNING">
 <h5>Warning</h5>
-<p>Please be aware this script contains a command that will remove or delete an artefact, ensure you test and understand the implications of running the script.</p>
+<p>Please be aware this script contains a command that will remove or delete an artifact, ensure you test and understand the implications of running the script.</p>
 </div>
 <div class="tabGroup" id="tabgroup_CeZOj-G++Q">
 <ul role="tablist">
@@ -124,7 +124,7 @@ Param(
 
 $m365Status = m365 status
 
-if ($m365Status -eq &quot;Logged Out&quot;) {
+if ($m365Status -match &quot;Logged Out&quot;) {
   # Connection to Microsoft 365
   m365 login
 }
@@ -193,7 +193,7 @@ else {
 </table>
 <h2 id="disclaimer">Disclaimer</h2>
 <p><strong>THESE SAMPLES ARE PROVIDED <em>AS IS</em> WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.</strong></p>
-<img src="https://telemetry.sharepointpnp.com/script-samples/scripts/teams-remove-personal-app" aria-hidden="true">
+<img src="https://pnptelemetry.azurewebsites.net/script-samples/scripts/teams-remove-personal-app" aria-hidden="true">
 </article>
           </div>
         </div>
