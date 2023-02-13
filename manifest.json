@@ -31,7 +31,7 @@
       "output": {
         ".html": {
           "relative_path": "ReportTermUse/README.html",
-          "hash": "vCSGTBNyyrHH/6r9RL3s8A=="
+          "hash": "zz00g9DlgGPIrj9nx2Ij6Q=="
         }
       },
       "is_incremental": false,
@@ -119,11 +119,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "../scripts/aad-analyze-user-profile-photos/README.md",
+      "source_relative_path": "../scripts/aad-add-app-permissions-and-connect-to-sharepoint/README.md",
       "output": {
         ".html": {
-          "relative_path": "aad-analyze-user-profile-photos/README.html",
-          "hash": "ZJ39bQHsqCeA1CJU7EL0Ew=="
+          "relative_path": "aad-add-app-permissions-and-connect-to-sharepoint/README.html",
+          "hash": "IzYRX4MA4me2F7J9ADLZHw=="
         }
       },
       "is_incremental": false,
@@ -132,10 +132,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "../scripts/aad-analyze-user-profile-photos/assets/example.png",
+      "source_relative_path": "../scripts/aad-add-app-permissions-and-connect-to-sharepoint/assets/example.png",
       "output": {
         "resource": {
-          "relative_path": "aad-analyze-user-profile-photos/assets/example.png"
+          "relative_path": "aad-add-app-permissions-and-connect-to-sharepoint/assets/example.png"
         }
       },
       "is_incremental": false,
@@ -143,10 +143,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "../scripts/aad-analyze-user-profile-photos/assets/preview.png",
+      "source_relative_path": "../scripts/aad-add-app-permissions-and-connect-to-sharepoint/assets/preview.png",
       "output": {
         "resource": {
-          "relative_path": "aad-analyze-user-profile-photos/assets/preview.png"
+          "relative_path": "aad-add-app-permissions-and-connect-to-sharepoint/assets/preview.png"
         }
       },
       "is_incremental": false,
@@ -154,10 +154,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "../scripts/aad-analyze-user-profile-photos/assets/sample.json",
+      "source_relative_path": "../scripts/aad-add-app-permissions-and-connect-to-sharepoint/assets/sample.json",
       "output": {
         "resource": {
-          "relative_path": "aad-analyze-user-profile-photos/assets/sample.json"
+          "relative_path": "aad-add-app-permissions-and-connect-to-sharepoint/assets/sample.json"
         }
       },
       "is_incremental": false,
@@ -261,7 +261,7 @@
       "output": {
         ".html": {
           "relative_path": "aad-delete-m365-groups-and-sharepoint-sites/README.html",
-          "hash": "zh4JXb2ea2MuyRRHq3Lzbw=="
+          "hash": "MWvCO0bidTCU/0ifLQbxow=="
         }
       },
       "is_incremental": false,
@@ -296,98 +296,6 @@
       "output": {
         "resource": {
           "relative_path": "aad-delete-m365-groups-and-sharepoint-sites/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "../scripts/aad-delete-m365-groups/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "aad-delete-m365-groups/README.html",
-          "hash": "ZgYgSsKOdgPDq+oEBJ1t2w=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/aad-delete-m365-groups/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "aad-delete-m365-groups/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/aad-delete-m365-groups/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "aad-delete-m365-groups/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/aad-delete-m365-groups/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "aad-delete-m365-groups/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "../scripts/aad-flag-groups-with-user-names/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "aad-flag-groups-with-user-names/README.html",
-          "hash": "UyAs4mn2tR8iL6j2I4rmWg=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/aad-flag-groups-with-user-names/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "aad-flag-groups-with-user-names/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/aad-flag-groups-with-user-names/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "aad-flag-groups-with-user-names/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/aad-flag-groups-with-user-names/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "aad-flag-groups-with-user-names/assets/sample.json"
         }
       },
       "is_incremental": false,
@@ -434,6 +342,52 @@
       "output": {
         "resource": {
           "relative_path": "aad-get-app-permission/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../scripts/aad-graph-create-dynamic-groups-project-visio/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "aad-graph-create-dynamic-groups-project-visio/README.html",
+          "hash": "GuNCaCbVmzVd5J3r7CMp9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": "",
+      "plugin": "add-to-gallery"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/aad-graph-create-dynamic-groups-project-visio/assets/example.png",
+      "output": {
+        "resource": {
+          "relative_path": "aad-graph-create-dynamic-groups-project-visio/assets/example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/aad-graph-create-dynamic-groups-project-visio/assets/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "aad-graph-create-dynamic-groups-project-visio/assets/preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/aad-graph-create-dynamic-groups-project-visio/assets/sample.json",
+      "output": {
+        "resource": {
+          "relative_path": "aad-graph-create-dynamic-groups-project-visio/assets/sample.json"
         }
       },
       "is_incremental": false,
@@ -498,57 +452,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "../scripts/aad-manage-group-users/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "aad-manage-group-users/README.html",
-          "hash": "GTYXjPZRjJnYZvd7tj1dTw=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/aad-manage-group-users/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "aad-manage-group-users/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/aad-manage-group-users/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "aad-manage-group-users/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/aad-manage-group-users/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "aad-manage-group-users/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "../scripts/aad-replace-membership-of-selected-groups/README.md",
       "output": {
         ".html": {
           "relative_path": "aad-replace-membership-of-selected-groups/README.html",
-          "hash": "eXMs4kzy0e/CMpHmr9s85g=="
+          "hash": "W/hxWP0r2qoYOaackn2vaA=="
         }
       },
       "is_incremental": false,
@@ -594,7 +502,7 @@
       "output": {
         ".html": {
           "relative_path": "aad-replace-owner-with-a-different-one/README.html",
-          "hash": "hHn6KW6y3gFHGWWO7iES6w=="
+          "hash": "OfwELMTyycN81r+FhLNfrg=="
         }
       },
       "is_incremental": false,
@@ -697,7 +605,7 @@
       "output": {
         ".html": {
           "relative_path": "bulk-restore-from-recyclebin/README.html",
-          "hash": "PcTiLnOk6hk9SHA7DlTerw=="
+          "hash": "bDAIwnxkpohrO6WPA9N4jA=="
         }
       },
       "is_incremental": false,
@@ -993,57 +901,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "../scripts/flow-cancel-all-running-flow-runs/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "flow-cancel-all-running-flow-runs/README.html",
-          "hash": "gU+NV2vQv53BSCl7o6yKfA=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/flow-cancel-all-running-flow-runs/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "flow-cancel-all-running-flow-runs/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/flow-cancel-all-running-flow-runs/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "flow-cancel-all-running-flow-runs/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/flow-cancel-all-running-flow-runs/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "flow-cancel-all-running-flow-runs/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "../scripts/flow-export-all-flows-in-environment/README.md",
       "output": {
         ".html": {
           "relative_path": "flow-export-all-flows-in-environment/README.html",
-          "hash": "YO1L5oVTzkt33WIKRSXtGA=="
+          "hash": "3dEIanDCxjlB72AqQF6uMg=="
         }
       },
       "is_incremental": false,
@@ -1078,52 +940,6 @@
       "output": {
         "resource": {
           "relative_path": "flow-export-all-flows-in-environment/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "../scripts/flow-export-flow-logicapp/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "flow-export-flow-logicapp/README.html",
-          "hash": "xcSEyO7dTXgdagn5ukfR/w=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/flow-export-flow-logicapp/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "flow-export-flow-logicapp/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/flow-export-flow-logicapp/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "flow-export-flow-logicapp/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/flow-export-flow-logicapp/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "flow-export-flow-logicapp/assets/sample.json"
         }
       },
       "is_incremental": false,
@@ -1177,103 +993,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "../scripts/flow-inventory-flows-by-author/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "flow-inventory-flows-by-author/README.html",
-          "hash": "g1c7xe083TWDnGIGuub/ng=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/flow-inventory-flows-by-author/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "flow-inventory-flows-by-author/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/flow-inventory-flows-by-author/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "flow-inventory-flows-by-author/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/flow-inventory-flows-by-author/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "flow-inventory-flows-by-author/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "../scripts/flow-resubmit-all-failed-flow-runs/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "flow-resubmit-all-failed-flow-runs/README.html",
-          "hash": "VuK0D/Zb0gk3Ajaeq4HKNQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/flow-resubmit-all-failed-flow-runs/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "flow-resubmit-all-failed-flow-runs/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/flow-resubmit-all-failed-flow-runs/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "flow-resubmit-all-failed-flow-runs/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/flow-resubmit-all-failed-flow-runs/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "flow-resubmit-all-failed-flow-runs/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "../scripts/flow-runs-day-summary/README.md",
       "output": {
         ".html": {
           "relative_path": "flow-runs-day-summary/README.html",
-          "hash": "bncOblpjpF85hTVsCuLpKA=="
+          "hash": "OfRadd7GPVKXguUPJAnMyA=="
         }
       },
       "is_incremental": false,
@@ -1376,52 +1100,6 @@
       "output": {
         "resource": {
           "relative_path": "flow-runs-status-list-dashboard/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "../scripts/flow-search-flows-for-connection/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "flow-search-flows-for-connection/README.html",
-          "hash": "pQtTKBOHCQKM0Z2ur8Whsg=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/flow-search-flows-for-connection/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "flow-search-flows-for-connection/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/flow-search-flows-for-connection/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "flow-search-flows-for-connection/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/flow-search-flows-for-connection/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "flow-search-flows-for-connection/assets/sample.json"
         }
       },
       "is_incremental": false,
@@ -1696,7 +1374,7 @@
       "output": {
         ".html": {
           "relative_path": "graph-download-office-documents-as-pdf/README.html",
-          "hash": "rMbJ95C4qKJMkLUTAhDPvg=="
+          "hash": "PMcPs4A6+uMDmdkcIEwQjA=="
         }
       },
       "is_incremental": false,
@@ -1777,6 +1455,74 @@
       "output": {
         "resource": {
           "relative_path": "graph-get-license-and-signins/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../scripts/graph-upload-file-to-sharepoint/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "graph-upload-file-to-sharepoint/README.html",
+          "hash": "0O/JpPzip2vzIlyFEGJZhQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": "",
+      "plugin": "add-to-gallery"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/graph-upload-file-to-sharepoint/assets/AfterUpload.png",
+      "output": {
+        "resource": {
+          "relative_path": "graph-upload-file-to-sharepoint/assets/AfterUpload.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/graph-upload-file-to-sharepoint/assets/FileToUpload.png",
+      "output": {
+        "resource": {
+          "relative_path": "graph-upload-file-to-sharepoint/assets/FileToUpload.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/graph-upload-file-to-sharepoint/assets/SharePointLibrary.png",
+      "output": {
+        "resource": {
+          "relative_path": "graph-upload-file-to-sharepoint/assets/SharePointLibrary.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/graph-upload-file-to-sharepoint/assets/Uploading.png",
+      "output": {
+        "resource": {
+          "relative_path": "graph-upload-file-to-sharepoint/assets/Uploading.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/graph-upload-file-to-sharepoint/assets/sample.json",
+      "output": {
+        "resource": {
+          "relative_path": "graph-upload-file-to-sharepoint/assets/sample.json"
         }
       },
       "is_incremental": false,
@@ -2417,7 +2163,7 @@
       "output": {
         ".html": {
           "relative_path": "spo-activate-site-feature/README.html",
-          "hash": "1Cx0YxOWOUI5Em0ilXO9fQ=="
+          "hash": "OfaYkkLhuTjI/6COrdiABg=="
         }
       },
       "is_incremental": false,
@@ -2463,7 +2209,7 @@
       "output": {
         ".html": {
           "relative_path": "spo-add-app-catalog/README.html",
-          "hash": "8dCWOUlQb5+GyT8B4B3wDQ=="
+          "hash": "FeF/Nf9DdxaUKcaO1wsiNA=="
         }
       },
       "is_incremental": false,
@@ -2630,11 +2376,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "../scripts/spo-add-custom-clientside-webpart-to-modern-page/README.md",
+      "source_relative_path": "../scripts/spo-add-demo-content-from-site/README.md",
       "output": {
         ".html": {
-          "relative_path": "spo-add-custom-clientside-webpart-to-modern-page/README.html",
-          "hash": "0NxTsWtR7o/kvs4LTp930Q=="
+          "relative_path": "spo-add-demo-content-from-site/README.html",
+          "hash": "hRosp1ER+NQQyKj9KARi/A=="
         }
       },
       "is_incremental": false,
@@ -2643,10 +2389,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "../scripts/spo-add-custom-clientside-webpart-to-modern-page/assets/example.png",
+      "source_relative_path": "../scripts/spo-add-demo-content-from-site/assets/example.png",
       "output": {
         "resource": {
-          "relative_path": "spo-add-custom-clientside-webpart-to-modern-page/assets/example.png"
+          "relative_path": "spo-add-demo-content-from-site/assets/example.png"
         }
       },
       "is_incremental": false,
@@ -2654,10 +2400,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "../scripts/spo-add-custom-clientside-webpart-to-modern-page/assets/preview.png",
+      "source_relative_path": "../scripts/spo-add-demo-content-from-site/assets/preview.png",
       "output": {
         "resource": {
-          "relative_path": "spo-add-custom-clientside-webpart-to-modern-page/assets/preview.png"
+          "relative_path": "spo-add-demo-content-from-site/assets/preview.png"
         }
       },
       "is_incremental": false,
@@ -2665,10 +2411,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "../scripts/spo-add-custom-clientside-webpart-to-modern-page/assets/sample.json",
+      "source_relative_path": "../scripts/spo-add-demo-content-from-site/assets/sample.json",
       "output": {
         "resource": {
-          "relative_path": "spo-add-custom-clientside-webpart-to-modern-page/assets/sample.json"
+          "relative_path": "spo-add-demo-content-from-site/assets/sample.json"
         }
       },
       "is_incremental": false,
@@ -2989,7 +2735,7 @@
       "output": {
         ".html": {
           "relative_path": "spo-add-multiple-folders-in-libraries-using-csv-file/README.html",
-          "hash": "rTMsfYKKmeymsuipXFFjZQ=="
+          "hash": "uhVOSZ95bPxShxAfi+bZFQ=="
         }
       },
       "is_incremental": false,
@@ -3024,52 +2770,6 @@
       "output": {
         "resource": {
           "relative_path": "spo-add-multiple-folders-in-libraries-using-csv-file/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "../scripts/spo-add-multiple-lists-in-multiple-sites/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "spo-add-multiple-lists-in-multiple-sites/README.html",
-          "hash": "LH29cRIS2MFvea/S895UcQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-add-multiple-lists-in-multiple-sites/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-add-multiple-lists-in-multiple-sites/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-add-multiple-lists-in-multiple-sites/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-add-multiple-lists-in-multiple-sites/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-add-multiple-lists-in-multiple-sites/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "spo-add-multiple-lists-in-multiple-sites/assets/sample.json"
         }
       },
       "is_incremental": false,
@@ -3123,52 +2823,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "../scripts/spo-add-site-collection-admin-using-csv-file/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "spo-add-site-collection-admin-using-csv-file/README.html",
-          "hash": "0HNSNX389aHTKAZkPj1kOA=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-add-site-collection-admin-using-csv-file/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-add-site-collection-admin-using-csv-file/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-add-site-collection-admin-using-csv-file/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-add-site-collection-admin-using-csv-file/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-add-site-collection-admin-using-csv-file/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "spo-add-site-collection-admin-using-csv-file/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "../scripts/spo-add-site-design-with-custom-list/README.md",
       "output": {
         ".html": {
@@ -3208,6 +2862,52 @@
       "output": {
         "resource": {
           "relative_path": "spo-add-site-design-with-custom-list/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../scripts/spo-add-sitedesign-permissions/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "spo-add-sitedesign-permissions/README.html",
+          "hash": "qNWLahI3tOchCKrvrEGisw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "",
+      "plugin": "add-to-gallery"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-add-sitedesign-permissions/assets/example.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-add-sitedesign-permissions/assets/example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-add-sitedesign-permissions/assets/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-add-sitedesign-permissions/assets/preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-add-sitedesign-permissions/assets/sample.json",
+      "output": {
+        "resource": {
+          "relative_path": "spo-add-sitedesign-permissions/assets/sample.json"
         }
       },
       "is_incremental": false,
@@ -3399,6 +3099,52 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "../scripts/spo-bulk-import-data/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "spo-bulk-import-data/README.html",
+          "hash": "tedQCRlEybHIcvf/mUKJFw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "",
+      "plugin": "add-to-gallery"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-bulk-import-data/assets/example.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-bulk-import-data/assets/example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-bulk-import-data/assets/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-bulk-import-data/assets/preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-bulk-import-data/assets/sample.json",
+      "output": {
+        "resource": {
+          "relative_path": "spo-bulk-import-data/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "../scripts/spo-bulk-publish-syntex-model/README.md",
       "output": {
         ".html": {
@@ -3524,6 +3270,52 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "../scripts/spo-compare-files/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "spo-compare-files/README.html",
+          "hash": "A58KSMUR9lSS2LTwNvhh2Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": "",
+      "plugin": "add-to-gallery"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-compare-files/assets/example.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-compare-files/assets/example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-compare-files/assets/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-compare-files/assets/preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-compare-files/assets/sample.json",
+      "output": {
+        "resource": {
+          "relative_path": "spo-compare-files/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "../scripts/spo-copy-directory-structure-to-sharepoint-list/README.md",
       "output": {
         ".html": {
@@ -3585,52 +3377,6 @@
       "output": {
         "resource": {
           "relative_path": "spo-copy-directory-structure-to-sharepoint-list/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "../scripts/spo-copy-files-to-another-library/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "spo-copy-files-to-another-library/README.html",
-          "hash": "pf2iz75mx5F74cq0RwA4GA=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-copy-files-to-another-library/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-copy-files-to-another-library/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-copy-files-to-another-library/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-copy-files-to-another-library/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-copy-files-to-another-library/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "spo-copy-files-to-another-library/assets/sample.json"
         }
       },
       "is_incremental": false,
@@ -3800,6 +3546,52 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "../scripts/spo-create-documentset/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "spo-create-documentset/README.html",
+          "hash": "m+Zc7WHnJhOBGHuDVpVt3Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": "",
+      "plugin": "add-to-gallery"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-create-documentset/assets/docset06.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-create-documentset/assets/docset06.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-create-documentset/assets/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-create-documentset/assets/preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-create-documentset/assets/sample.json",
+      "output": {
+        "resource": {
+          "relative_path": "spo-create-documentset/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "../scripts/spo-create-modern-pages-add-web-parts/README.md",
       "output": {
         ".html": {
@@ -3839,6 +3631,52 @@
       "output": {
         "resource": {
           "relative_path": "spo-create-modern-pages-add-web-parts/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../scripts/spo-create-multi-hub-sites/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "spo-create-multi-hub-sites/README.html",
+          "hash": "25kGggBVl47vyT8CaymknQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": "",
+      "plugin": "add-to-gallery"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-create-multi-hub-sites/assets/example.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-create-multi-hub-sites/assets/example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-create-multi-hub-sites/assets/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-create-multi-hub-sites/assets/preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-create-multi-hub-sites/assets/sample.json",
+      "output": {
+        "resource": {
+          "relative_path": "spo-create-multi-hub-sites/assets/sample.json"
         }
       },
       "is_incremental": false,
@@ -3914,52 +3752,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "../scripts/spo-delete-non-group-connected-modern-sites/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "spo-delete-non-group-connected-modern-sites/README.html",
-          "hash": "PfvWYHJNzMkQKpwpxZq73g=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-delete-non-group-connected-modern-sites/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-delete-non-group-connected-modern-sites/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-delete-non-group-connected-modern-sites/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-delete-non-group-connected-modern-sites/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-delete-non-group-connected-modern-sites/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "spo-delete-non-group-connected-modern-sites/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "../scripts/spo-delete-orphaned-temporary-sitepages/README.md",
       "output": {
         ".html": {
@@ -3999,6 +3791,98 @@
       "output": {
         "resource": {
           "relative_path": "spo-delete-orphaned-temporary-sitepages/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../scripts/spo-deploy-pnpmodernsearch-webpart/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "spo-deploy-pnpmodernsearch-webpart/README.html",
+          "hash": "4i1MZ2+FicpHTJkHYAaiyA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "",
+      "plugin": "add-to-gallery"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-deploy-pnpmodernsearch-webpart/assets/example.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-deploy-pnpmodernsearch-webpart/assets/example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-deploy-pnpmodernsearch-webpart/assets/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-deploy-pnpmodernsearch-webpart/assets/preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-deploy-pnpmodernsearch-webpart/assets/sample.json",
+      "output": {
+        "resource": {
+          "relative_path": "spo-deploy-pnpmodernsearch-webpart/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../scripts/spo-deploy-sppkgs-and-install-apps/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "spo-deploy-sppkgs-and-install-apps/README.html",
+          "hash": "U0qnP0cstXvwu/Gt9CPuFg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "",
+      "plugin": "add-to-gallery"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-deploy-sppkgs-and-install-apps/assets/example.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-deploy-sppkgs-and-install-apps/assets/example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-deploy-sppkgs-and-install-apps/assets/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-deploy-sppkgs-and-install-apps/assets/preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-deploy-sppkgs-and-install-apps/assets/sample.json",
+      "output": {
+        "resource": {
+          "relative_path": "spo-deploy-sppkgs-and-install-apps/assets/sample.json"
         }
       },
       "is_incremental": false,
@@ -4098,57 +3982,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "../scripts/spo-disable-tenant-wide-extension/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "spo-disable-tenant-wide-extension/README.html",
-          "hash": "SBkaMPsle+uehtK7g980ew=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-disable-tenant-wide-extension/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-disable-tenant-wide-extension/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-disable-tenant-wide-extension/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-disable-tenant-wide-extension/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-disable-tenant-wide-extension/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "spo-disable-tenant-wide-extension/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "../scripts/spo-empty-tenant-recyclebin/README.md",
       "output": {
         ".html": {
           "relative_path": "spo-empty-tenant-recyclebin/README.html",
-          "hash": "MuP3xRFvR7vG8L3SyAhK/g=="
+          "hash": "RcUG/l9pKvF4lT/gRBXmaw=="
         }
       },
       "is_incremental": false,
@@ -4190,11 +4028,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "../scripts/spo-ensure-siteassets-library/README.md",
+      "source_relative_path": "../scripts/spo-enable-page-scheduling/README.md",
       "output": {
         ".html": {
-          "relative_path": "spo-ensure-siteassets-library/README.html",
-          "hash": "ZHzgEN+vlQKhSD0fdjbanA=="
+          "relative_path": "spo-enable-page-scheduling/README.html",
+          "hash": "aUsOE5sw1p13BzWD0b5r4g=="
         }
       },
       "is_incremental": false,
@@ -4203,10 +4041,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "../scripts/spo-ensure-siteassets-library/assets/example.png",
+      "source_relative_path": "../scripts/spo-enable-page-scheduling/assets/preview.png",
       "output": {
         "resource": {
-          "relative_path": "spo-ensure-siteassets-library/assets/example.png"
+          "relative_path": "spo-enable-page-scheduling/assets/preview.png"
         }
       },
       "is_incremental": false,
@@ -4214,10 +4052,34 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "../scripts/spo-ensure-siteassets-library/assets/preview.png",
+      "source_relative_path": "../scripts/spo-enable-page-scheduling/assets/sample.json",
       "output": {
         "resource": {
-          "relative_path": "spo-ensure-siteassets-library/assets/preview.png"
+          "relative_path": "spo-enable-page-scheduling/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../scripts/spo-enable-site-collection-app-catalog/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "spo-enable-site-collection-app-catalog/README.html",
+          "hash": "bHiPCFuzkPXmTXzmGQRjeA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "",
+      "plugin": "add-to-gallery"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-enable-site-collection-app-catalog/assets/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-enable-site-collection-app-catalog/assets/preview.png"
         }
       },
       "is_incremental": false,
@@ -4225,10 +4087,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "../scripts/spo-ensure-siteassets-library/assets/sample.json",
+      "source_relative_path": "../scripts/spo-enable-site-collection-app-catalog/assets/sample.json",
       "output": {
         "resource": {
-          "relative_path": "spo-ensure-siteassets-library/assets/sample.json"
+          "relative_path": "spo-enable-site-collection-app-catalog/assets/sample.json"
         }
       },
       "is_incremental": false,
@@ -4264,6 +4126,98 @@
       "output": {
         "resource": {
           "relative_path": "spo-export-all-site-pages-details/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../scripts/spo-export-author-byline-users/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "spo-export-author-byline-users/README.html",
+          "hash": "jS2vB8r1vFOXQj7MWfhFPw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "",
+      "plugin": "add-to-gallery"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-export-author-byline-users/assets/example.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-export-author-byline-users/assets/example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-export-author-byline-users/assets/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-export-author-byline-users/assets/preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-export-author-byline-users/assets/sample.json",
+      "output": {
+        "resource": {
+          "relative_path": "spo-export-author-byline-users/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../scripts/spo-export-basic-sitecollection-info/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "spo-export-basic-sitecollection-info/README.html",
+          "hash": "pyiXJCtJ1jG2tkSiOK4D0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": "",
+      "plugin": "add-to-gallery"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-export-basic-sitecollection-info/assets/example.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-export-basic-sitecollection-info/assets/example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-export-basic-sitecollection-info/assets/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-export-basic-sitecollection-info/assets/preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-export-basic-sitecollection-info/assets/sample.json",
+      "output": {
+        "resource": {
+          "relative_path": "spo-export-basic-sitecollection-info/assets/sample.json"
         }
       },
       "is_incremental": false,
@@ -4437,6 +4391,52 @@
       "output": {
         "resource": {
           "relative_path": "spo-export-hub-sites-details-to-csv/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../scripts/spo-export-people-web-part-users/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "spo-export-people-web-part-users/README.html",
+          "hash": "aoEze1M2RmDYU7aj/nTOnw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "",
+      "plugin": "add-to-gallery"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-export-people-web-part-users/assets/example.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-export-people-web-part-users/assets/example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-export-people-web-part-users/assets/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-export-people-web-part-users/assets/preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-export-people-web-part-users/assets/sample.json",
+      "output": {
+        "resource": {
+          "relative_path": "spo-export-people-web-part-users/assets/sample.json"
         }
       },
       "is_incremental": false,
@@ -4689,6 +4689,63 @@
       "output": {
         "resource": {
           "relative_path": "spo-export-space-page-as-template-and-save-to-sharepoint/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../scripts/spo-export-stream-classic-webparts/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "spo-export-stream-classic-webparts/README.html",
+          "hash": "uE3GdmOTf1h8caM0KZaojg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "",
+      "plugin": "add-to-gallery"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-export-stream-classic-webparts/assets/example.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-export-stream-classic-webparts/assets/example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-export-stream-classic-webparts/assets/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-export-stream-classic-webparts/assets/preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-export-stream-classic-webparts/assets/sample.json",
+      "output": {
+        "resource": {
+          "relative_path": "spo-export-stream-classic-webparts/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-export-stream-classic-webparts/assets/stream.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-export-stream-classic-webparts/assets/stream.png"
         }
       },
       "is_incremental": false,
@@ -5156,6 +5213,52 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "../scripts/spo-get-message-centre-announcements-and-post-to-teams-channel/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "spo-get-message-centre-announcements-and-post-to-teams-channel/README.html",
+          "hash": "hrxIgXBmmYMAcHuJ0FgjtA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "",
+      "plugin": "add-to-gallery"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-get-message-centre-announcements-and-post-to-teams-channel/assets/example.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-get-message-centre-announcements-and-post-to-teams-channel/assets/example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-get-message-centre-announcements-and-post-to-teams-channel/assets/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-get-message-centre-announcements-and-post-to-teams-channel/assets/preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-get-message-centre-announcements-and-post-to-teams-channel/assets/sample.json",
+      "output": {
+        "resource": {
+          "relative_path": "spo-get-message-centre-announcements-and-post-to-teams-channel/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "../scripts/spo-get-usage-from-audit-logs/README.md",
       "output": {
         ".html": {
@@ -5202,11 +5305,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "../scripts/spo-grant-api-permissions-aad/README.md",
+      "source_relative_path": "../scripts/spo-grant-app-site-permission/README.md",
       "output": {
         ".html": {
-          "relative_path": "spo-grant-api-permissions-aad/README.html",
-          "hash": "G88SerFW+DHo78lvLvLrmA=="
+          "relative_path": "spo-grant-app-site-permission/README.html",
+          "hash": "cMTPTtSzmYW/5h9diQPhxg=="
         }
       },
       "is_incremental": false,
@@ -5215,10 +5318,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "../scripts/spo-grant-api-permissions-aad/assets/example.png",
+      "source_relative_path": "../scripts/spo-grant-app-site-permission/assets/example.png",
       "output": {
         "resource": {
-          "relative_path": "spo-grant-api-permissions-aad/assets/example.png"
+          "relative_path": "spo-grant-app-site-permission/assets/example.png"
         }
       },
       "is_incremental": false,
@@ -5226,10 +5329,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "../scripts/spo-grant-api-permissions-aad/assets/preview.png",
+      "source_relative_path": "../scripts/spo-grant-app-site-permission/assets/preview.png",
       "output": {
         "resource": {
-          "relative_path": "spo-grant-api-permissions-aad/assets/preview.png"
+          "relative_path": "spo-grant-app-site-permission/assets/preview.png"
         }
       },
       "is_incremental": false,
@@ -5237,10 +5340,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "../scripts/spo-grant-api-permissions-aad/assets/sample.json",
+      "source_relative_path": "../scripts/spo-grant-app-site-permission/assets/sample.json",
       "output": {
         "resource": {
-          "relative_path": "spo-grant-api-permissions-aad/assets/sample.json"
+          "relative_path": "spo-grant-app-site-permission/assets/sample.json"
         }
       },
       "is_incremental": false,
@@ -5309,7 +5412,7 @@
       "output": {
         ".html": {
           "relative_path": "spo-hide-list-from-site-contents/README.html",
-          "hash": "oFro0NDKhpMH5oxoRjrvWg=="
+          "hash": "u4SDFirRzL4YiS+TmQ1leQ=="
         }
       },
       "is_incremental": false,
@@ -5489,52 +5592,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "../scripts/spo-insert-sp-library-pictures-into-word/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "spo-insert-sp-library-pictures-into-word/README.html",
-          "hash": "Ere5y1wuELMOsPaSVD7sHw=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-insert-sp-library-pictures-into-word/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-insert-sp-library-pictures-into-word/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-insert-sp-library-pictures-into-word/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-insert-sp-library-pictures-into-word/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-insert-sp-library-pictures-into-word/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "spo-insert-sp-library-pictures-into-word/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "../scripts/spo-install-deploy-spfx-solution/README.md",
       "output": {
         ".html": {
@@ -5596,7 +5653,7 @@
       "output": {
         ".html": {
           "relative_path": "spo-large-list-items-to-pnp-template/README.html",
-          "hash": "rChfykpmlCPk4VBrJ33pag=="
+          "hash": "dHdSvITTj+aM95NwIrGACw=="
         }
       },
       "is_incremental": false,
@@ -5638,52 +5695,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "../scripts/spo-list-all-application-customizers/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "spo-list-all-application-customizers/README.html",
-          "hash": "P6AGL0rZ85d2CXIX6trRCw=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-list-all-application-customizers/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-list-all-application-customizers/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-list-all-application-customizers/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-list-all-application-customizers/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-list-all-application-customizers/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "spo-list-all-application-customizers/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "../scripts/spo-list-download-contenttype-documenttemplate/README.md",
       "output": {
         ".html": {
@@ -5712,52 +5723,6 @@
       "output": {
         "resource": {
           "relative_path": "spo-list-download-contenttype-documenttemplate/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "../scripts/spo-list-failed-sitedesigns/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "spo-list-failed-sitedesigns/README.html",
-          "hash": "LCbzt+z4xG8tdUyA17WzFA=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-list-failed-sitedesigns/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-list-failed-sitedesigns/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-list-failed-sitedesigns/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-list-failed-sitedesigns/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-list-failed-sitedesigns/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "spo-list-failed-sitedesigns/assets/sample.json"
         }
       },
       "is_incremental": false,
@@ -5936,144 +5901,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "../scripts/spo-list-site-app-catalogs/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "spo-list-site-app-catalogs/README.html",
-          "hash": "7PQoP6zrexOF1IkJRaQwOg=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-list-site-app-catalogs/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-list-site-app-catalogs/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-list-site-app-catalogs/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-list-site-app-catalogs/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-list-site-app-catalogs/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "spo-list-site-app-catalogs/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "../scripts/spo-list-site-collection-lists/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "spo-list-site-collection-lists/README.html",
-          "hash": "6QPrt9B6kn+nBIoD8E9m3g=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-list-site-collection-lists/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-list-site-collection-lists/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-list-site-collection-lists/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-list-site-collection-lists/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-list-site-collection-lists/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "spo-list-site-collection-lists/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "../scripts/spo-list-site-collection-owners/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "spo-list-site-collection-owners/README.html",
-          "hash": "Fe6g5BszCTTk/kZxA9j2nw=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-list-site-collection-owners/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-list-site-collection-owners/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-list-site-collection-owners/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-list-site-collection-owners/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-list-site-collection-owners/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "spo-list-site-collection-owners/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "../scripts/spo-list-site-externalusers-in-groups/README.md",
       "output": {
         ".html": {
@@ -6124,7 +5951,7 @@
       "output": {
         ".html": {
           "relative_path": "spo-list-site-externalusers/README.html",
-          "hash": "vb3pCQhoMSZWtYFOTL/syw=="
+          "hash": "w7a1ebYJikJJuVCmOVbVew=="
         }
       },
       "is_incremental": false,
@@ -6159,52 +5986,6 @@
       "output": {
         "resource": {
           "relative_path": "spo-list-site-externalusers/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "../scripts/spo-list-tenant-wide-extensions/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "spo-list-tenant-wide-extensions/README.html",
-          "hash": "hNeDAoG796j1wSdaQZXL4g=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-list-tenant-wide-extensions/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-list-tenant-wide-extensions/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-list-tenant-wide-extensions/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-list-tenant-wide-extensions/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-list-tenant-wide-extensions/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "spo-list-tenant-wide-extensions/assets/sample.json"
         }
       },
       "is_incremental": false,
@@ -6332,52 +6113,6 @@
       "output": {
         "resource": {
           "relative_path": "spo-modern-page-url-report/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "../scripts/spo-monitor-site-collection-storage-usage/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "spo-monitor-site-collection-storage-usage/README.html",
-          "hash": "QIjVEFIGP2SZGp+yg8gFRg=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-monitor-site-collection-storage-usage/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-monitor-site-collection-storage-usage/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-monitor-site-collection-storage-usage/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-monitor-site-collection-storage-usage/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-monitor-site-collection-storage-usage/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "spo-monitor-site-collection-storage-usage/assets/sample.json"
         }
       },
       "is_incremental": false,
@@ -6707,7 +6442,7 @@
       "output": {
         ".html": {
           "relative_path": "spo-remove-custom-themes/README.html",
-          "hash": "tkCG4dVkqhiPEU3DzjnPEA=="
+          "hash": "faqnzZWspTRp1jdGZyKTKw=="
         }
       },
       "is_incremental": false,
@@ -6834,7 +6569,7 @@
       "output": {
         ".html": {
           "relative_path": "spo-remove-orphaned-redirect-sites/README.html",
-          "hash": "RhghOSF1iA+RNTopEwCZJA=="
+          "hash": "a8lFOm0VrdEnl03BByHIWA=="
         }
       },
       "is_incremental": false,
@@ -6880,7 +6615,7 @@
       "output": {
         ".html": {
           "relative_path": "spo-remove-site-designs/README.html",
-          "hash": "HQXg61IRmhEBdFBMVK/84A=="
+          "hash": "ZX0oB57zzcjh9Q5mvrtsyQ=="
         }
       },
       "is_incremental": false,
@@ -6926,7 +6661,7 @@
       "output": {
         ".html": {
           "relative_path": "spo-remove-site-scripts/README.html",
-          "hash": "zjHD0QUFJFGNqroRRqwogg=="
+          "hash": "3iOx0zBVpyOdf0qVDv2mvQ=="
         }
       },
       "is_incremental": false,
@@ -6968,11 +6703,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "../scripts/spo-remove-sitecollection-admin-user/README.md",
+      "source_relative_path": "../scripts/spo-remove-webpart-from-pages/README.md",
       "output": {
         ".html": {
-          "relative_path": "spo-remove-sitecollection-admin-user/README.html",
-          "hash": "zoXd50phlqmKNuNsqAOa9Q=="
+          "relative_path": "spo-remove-webpart-from-pages/README.html",
+          "hash": "SxAYr10VUk4V7Ec/iqmOfQ=="
         }
       },
       "is_incremental": false,
@@ -6981,10 +6716,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "../scripts/spo-remove-sitecollection-admin-user/assets/example.png",
+      "source_relative_path": "../scripts/spo-remove-webpart-from-pages/assets/example.png",
       "output": {
         "resource": {
-          "relative_path": "spo-remove-sitecollection-admin-user/assets/example.png"
+          "relative_path": "spo-remove-webpart-from-pages/assets/example.png"
         }
       },
       "is_incremental": false,
@@ -6992,10 +6727,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "../scripts/spo-remove-sitecollection-admin-user/assets/preview.png",
+      "source_relative_path": "../scripts/spo-remove-webpart-from-pages/assets/preview.png",
       "output": {
         "resource": {
-          "relative_path": "spo-remove-sitecollection-admin-user/assets/preview.png"
+          "relative_path": "spo-remove-webpart-from-pages/assets/preview.png"
         }
       },
       "is_incremental": false,
@@ -7003,56 +6738,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "../scripts/spo-remove-sitecollection-admin-user/assets/sample.json",
+      "source_relative_path": "../scripts/spo-remove-webpart-from-pages/assets/sample.json",
       "output": {
         "resource": {
-          "relative_path": "spo-remove-sitecollection-admin-user/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "../scripts/spo-replace-site-collection-admin/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "spo-replace-site-collection-admin/README.html",
-          "hash": "9uYwJ8JO92RQ+2txvea1ow=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-replace-site-collection-admin/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-replace-site-collection-admin/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-replace-site-collection-admin/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-replace-site-collection-admin/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-replace-site-collection-admin/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "spo-replace-site-collection-admin/assets/sample.json"
+          "relative_path": "spo-remove-webpart-from-pages/assets/sample.json"
         }
       },
       "is_incremental": false,
@@ -7375,7 +7064,7 @@
       "output": {
         ".html": {
           "relative_path": "spo-setup-example-site/README.html",
-          "hash": "YMJoJRiDXaqlNgcOngWNwg=="
+          "hash": "VbhTzzoivraF8ItE/C3g4A=="
         }
       },
       "is_incremental": false,
@@ -7410,52 +7099,6 @@
       "output": {
         "resource": {
           "relative_path": "spo-setup-example-site/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "../scripts/spo-sync-splib-into-az-storage-container/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "spo-sync-splib-into-az-storage-container/README.html",
-          "hash": "anqn2WvKkVyOnBJSwfEjlw=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-sync-splib-into-az-storage-container/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-sync-splib-into-az-storage-container/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-sync-splib-into-az-storage-container/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-sync-splib-into-az-storage-container/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-sync-splib-into-az-storage-container/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "spo-sync-splib-into-az-storage-container/assets/sample.json"
         }
       },
       "is_incremental": false,
@@ -7610,6 +7253,52 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "../scripts/spo-update-people-web-part/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "spo-update-people-web-part/README.html",
+          "hash": "JqTqx++SONl29N1wylLoDg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "",
+      "plugin": "add-to-gallery"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-update-people-web-part/assets/example.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-update-people-web-part/assets/example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-update-people-web-part/assets/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-update-people-web-part/assets/preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-update-people-web-part/assets/sample.json",
+      "output": {
+        "resource": {
+          "relative_path": "spo-update-people-web-part/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "../scripts/spo-update-search-result-webparts/README.md",
       "output": {
         ".html": {
@@ -7702,52 +7391,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "../scripts/spo-upload-local-files-and-folder/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "spo-upload-local-files-and-folder/README.html",
-          "hash": "XFg/yGUCdwWgL6618dRS6Q=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-upload-local-files-and-folder/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-upload-local-files-and-folder/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-upload-local-files-and-folder/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "spo-upload-local-files-and-folder/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/spo-upload-local-files-and-folder/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "spo-upload-local-files-and-folder/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "../scripts/stream-report-videos/README.md",
       "output": {
         ".html": {
@@ -7798,52 +7441,6 @@
       "output": {
         "resource": {
           "relative_path": "stream-report-videos/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "../scripts/teams-add-bulk-users-teams/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "teams-add-bulk-users-teams/README.html",
-          "hash": "vfQYo/seu1Bo28/6tx3b2A=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-add-bulk-users-teams/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "teams-add-bulk-users-teams/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-add-bulk-users-teams/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "teams-add-bulk-users-teams/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-add-bulk-users-teams/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "teams-add-bulk-users-teams/assets/sample.json"
         }
       },
       "is_incremental": false,
@@ -7954,98 +7551,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "../scripts/teams-create-team-and-add-members-and-owners/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "teams-create-team-and-add-members-and-owners/README.html",
-          "hash": "n77pQE8PV3Pv99pfnAbo2g=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-create-team-and-add-members-and-owners/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "teams-create-team-and-add-members-and-owners/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-create-team-and-add-members-and-owners/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "teams-create-team-and-add-members-and-owners/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-create-team-and-add-members-and-owners/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "teams-create-team-and-add-members-and-owners/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "../scripts/teams-create-team-from-group/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "teams-create-team-from-group/README.html",
-          "hash": "nBwh10NH2oIwBqYdnQxfJQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-create-team-from-group/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "teams-create-team-from-group/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-create-team-from-group/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "teams-create-team-from-group/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-create-team-from-group/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "teams-create-team-from-group/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "../scripts/teams-createteam-from-template/README.md",
       "output": {
         ".html": {
@@ -8096,98 +7601,6 @@
       "output": {
         "resource": {
           "relative_path": "teams-createteam-from-template/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "../scripts/teams-deploy-teams-app/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "teams-deploy-teams-app/README.html",
-          "hash": "pfvk++dKV8MHAWBIYr+eUg=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-deploy-teams-app/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "teams-deploy-teams-app/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-deploy-teams-app/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "teams-deploy-teams-app/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-deploy-teams-app/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "teams-deploy-teams-app/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "../scripts/teams-export-teams-conversations/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "teams-export-teams-conversations/README.html",
-          "hash": "DiXF38mObYluSXGOiAJ9Gw=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-export-teams-conversations/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "teams-export-teams-conversations/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-export-teams-conversations/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "teams-export-teams-conversations/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-export-teams-conversations/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "teams-export-teams-conversations/assets/sample.json"
         }
       },
       "is_incremental": false,
@@ -8423,190 +7836,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "../scripts/teams-govern-orphan-teams/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "teams-govern-orphan-teams/README.html",
-          "hash": "WackUZgWfYnMy9rBB06STQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-govern-orphan-teams/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "teams-govern-orphan-teams/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-govern-orphan-teams/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "teams-govern-orphan-teams/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-govern-orphan-teams/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "teams-govern-orphan-teams/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "../scripts/teams-install-personal-app/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "teams-install-personal-app/README.html",
-          "hash": "+gXXl4Fq7qdesfl8S7zCSA=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-install-personal-app/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "teams-install-personal-app/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-install-personal-app/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "teams-install-personal-app/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-install-personal-app/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "teams-install-personal-app/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "../scripts/teams-list-all-tabs-teams/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "teams-list-all-tabs-teams/README.html",
-          "hash": "P2Fi+HFVlHQpaULj8bvmfQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-list-all-tabs-teams/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "teams-list-all-tabs-teams/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-list-all-tabs-teams/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "teams-list-all-tabs-teams/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-list-all-tabs-teams/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "teams-list-all-tabs-teams/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "../scripts/teams-list-all-teammembers-teams/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "teams-list-all-teammembers-teams/README.html",
-          "hash": "Gp6DGsOcZd0FmECgwMBTAg=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-list-all-teammembers-teams/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "teams-list-all-teammembers-teams/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-list-all-teammembers-teams/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "teams-list-all-teammembers-teams/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-list-all-teammembers-teams/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "teams-list-all-teammembers-teams/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "../scripts/teams-list-guestusers/README.md",
       "output": {
         ".html": {
@@ -8653,57 +7882,11 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "../scripts/teams-list-teams-app-usage/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "teams-list-teams-app-usage/README.html",
-          "hash": "mwyUAB3AFpY9gKKG4CJgVw=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-list-teams-app-usage/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "teams-list-teams-app-usage/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-list-teams-app-usage/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "teams-list-teams-app-usage/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-list-teams-app-usage/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "teams-list-teams-app-usage/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "../scripts/teams-list-teams-owners-and-members/README.md",
       "output": {
         ".html": {
           "relative_path": "teams-list-teams-owners-and-members/README.html",
-          "hash": "Ncysk2xRAlea3Cek6Yu/sA=="
+          "hash": "AD0OKR3PBMBOH95YYEZL9Q=="
         }
       },
       "is_incremental": false,
@@ -8738,190 +7921,6 @@
       "output": {
         "resource": {
           "relative_path": "teams-list-teams-owners-and-members/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "../scripts/teams-recognize-most-active-users-specific-team/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "teams-recognize-most-active-users-specific-team/README.html",
-          "hash": "sTzersx4AVKD+rVTc4nsAQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-recognize-most-active-users-specific-team/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "teams-recognize-most-active-users-specific-team/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-recognize-most-active-users-specific-team/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "teams-recognize-most-active-users-specific-team/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-recognize-most-active-users-specific-team/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "teams-recognize-most-active-users-specific-team/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "../scripts/teams-remove-personal-app/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "teams-remove-personal-app/README.html",
-          "hash": "wIgt5ENQDqz+HZx+afOJ+w=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-remove-personal-app/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "teams-remove-personal-app/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-remove-personal-app/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "teams-remove-personal-app/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-remove-personal-app/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "teams-remove-personal-app/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "../scripts/teams-remove-wikitab-teams/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "teams-remove-wikitab-teams/README.html",
-          "hash": "O474foxW+Nx3JAFGcNd+QQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-remove-wikitab-teams/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "teams-remove-wikitab-teams/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-remove-wikitab-teams/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "teams-remove-wikitab-teams/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-remove-wikitab-teams/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "teams-remove-wikitab-teams/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "../scripts/teams-share-socialchampions/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "teams-share-socialchampions/README.html",
-          "hash": "v4RjspBMq9251FjK+AP3FA=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-share-socialchampions/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "teams-share-socialchampions/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-share-socialchampions/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "teams-share-socialchampions/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/teams-share-socialchampions/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "teams-share-socialchampions/assets/sample.json"
         }
       },
       "is_incremental": false,
@@ -8979,98 +7978,6 @@
       "output": {
         "resource": {
           "relative_path": "tenant-health-notify-teams/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "../scripts/tenant-monitor-notify-healthstatus/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "tenant-monitor-notify-healthstatus/README.html",
-          "hash": "o2lXUnCXPNZi4CluLm4JYw=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/tenant-monitor-notify-healthstatus/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "tenant-monitor-notify-healthstatus/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/tenant-monitor-notify-healthstatus/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "tenant-monitor-notify-healthstatus/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/tenant-monitor-notify-healthstatus/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "tenant-monitor-notify-healthstatus/assets/sample.json"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "../scripts/todo-cleanup-completed-todos/README.md",
-      "output": {
-        ".html": {
-          "relative_path": "todo-cleanup-completed-todos/README.html",
-          "hash": "tzPgXmRrHMT/kexH/rlKiA=="
-        }
-      },
-      "is_incremental": false,
-      "version": "",
-      "plugin": "add-to-gallery"
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/todo-cleanup-completed-todos/assets/example.png",
-      "output": {
-        "resource": {
-          "relative_path": "todo-cleanup-completed-todos/assets/example.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/todo-cleanup-completed-todos/assets/preview.png",
-      "output": {
-        "resource": {
-          "relative_path": "todo-cleanup-completed-todos/assets/preview.png"
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Resource",
-      "source_relative_path": "../scripts/todo-cleanup-completed-todos/assets/sample.json",
-      "output": {
-        "resource": {
-          "relative_path": "todo-cleanup-completed-todos/assets/sample.json"
         }
       },
       "is_incremental": false,
@@ -9174,6 +8081,17 @@
       "output": {
         "resource": {
           "relative_path": "whiteboard-report-usage/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "404.html",
+      "output": {
+        "resource": {
+          "relative_path": "404.html"
         }
       },
       "is_incremental": false,
@@ -9807,6 +8725,28 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "assets/support-scripts/HappyHolidays-Community.ps1",
+      "output": {
+        "resource": {
+          "relative_path": "assets/support-scripts/HappyHolidays-Community.ps1"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "assets/support-scripts/Script-Community.ps1",
+      "output": {
+        "resource": {
+          "relative_path": "assets/support-scripts/Script-Community.ps1"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "by-product.md",
       "output": {
@@ -9840,7 +8780,19 @@
       "output": {
         ".html": {
           "relative_path": "cmdusage.html",
-          "hash": "BX6usbbcw4VLswKFYNaIgA=="
+          "hash": "D3016u2PcV9kIn7VlKQBLg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "contributing/how-can-i-contribute.md",
+      "output": {
+        ".html": {
+          "relative_path": "contributing/how-can-i-contribute.html",
+          "hash": "pocxJYOd4Rwij/weibxI8w=="
         }
       },
       "is_incremental": false,
@@ -9852,7 +8804,7 @@
       "output": {
         ".html": {
           "relative_path": "contributing/index.html",
-          "hash": "RxRqMnPlu0rqRldWSNXk3A=="
+          "hash": "snWUcfPLia9yxaKMH6u4bw=="
         }
       },
       "is_incremental": false,
@@ -9864,7 +8816,7 @@
       "output": {
         ".html": {
           "relative_path": "contributing/maintainers-guidance.html",
-          "hash": "4cqiCnAaF5cneD1HFLWdTQ=="
+          "hash": "pIrBzXXw+kKqMtd3MxFmtA=="
         }
       },
       "is_incremental": false,
@@ -9888,7 +8840,19 @@
       "output": {
         ".html": {
           "relative_path": "contributing/preparing-a-submission.html",
-          "hash": "VZyGl52hs+c0vlihKUoDqw=="
+          "hash": "Tubup8v9zfV7gV1YmgOrYg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "contributing/recognition.md",
+      "output": {
+        ".html": {
+          "relative_path": "contributing/recognition.html",
+          "hash": "MJvc2gNL2QJENKfXLHna3g=="
         }
       },
       "is_incremental": false,
@@ -9900,7 +8864,7 @@
       "output": {
         ".html": {
           "relative_path": "contributing/submitting-pull-requests.html",
-          "hash": "zwNOHmFk1r6xfX7by0jD9g=="
+          "hash": "4V2t8WBPRIk4PmqEfZhB+A=="
         }
       },
       "is_incremental": false,
@@ -9912,7 +8876,7 @@
       "output": {
         ".html": {
           "relative_path": "contributing/toc.html",
-          "hash": "rAEnWDumfr+YB1A/asu4fw=="
+          "hash": "O6J/5yOQPU5cOxOWM8wJtA=="
         }
       },
       "is_incremental": false,
@@ -9936,7 +8900,7 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "ovF+Aun7rLV7Zm/JvEVVeA=="
+          "hash": "h0OhhflGihC197C4ueDldw=="
         }
       },
       "is_incremental": false,
@@ -9949,7 +8913,7 @@
       "output": {
         ".html": {
           "relative_path": "matrix.html",
-          "hash": "ODEd0dMxdK5Sy0Z5h9kNJg=="
+          "hash": "TOL7qFgFOWuK+RAdVrut1g=="
         }
       },
       "is_incremental": false,
@@ -9961,7 +8925,7 @@
       "output": {
         ".html": {
           "relative_path": "metadata.html",
-          "hash": "HWUw3oXDcylHqgJZowLYQg=="
+          "hash": "EzGmSwp4dKPrqTAqJVJW9g=="
         }
       },
       "is_incremental": false,
