@@ -1462,6 +1462,85 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "../scripts/graph-send-email-from-csv-onbehalf-of-user/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "graph-send-email-from-csv-onbehalf-of-user/README.html",
+          "hash": "Rw44u7JxEwY9Jvfx0g6XOw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "",
+      "plugin": "add-to-gallery"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/graph-send-email-from-csv-onbehalf-of-user/assets/API_Permissions.png",
+      "output": {
+        "resource": {
+          "relative_path": "graph-send-email-from-csv-onbehalf-of-user/assets/API_Permissions.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/graph-send-email-from-csv-onbehalf-of-user/assets/EmailDetails.csv",
+      "output": {
+        "resource": {
+          "relative_path": "graph-send-email-from-csv-onbehalf-of-user/assets/EmailDetails.csv"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/graph-send-email-from-csv-onbehalf-of-user/assets/header-2.png",
+      "output": {
+        "resource": {
+          "relative_path": "graph-send-email-from-csv-onbehalf-of-user/assets/header-2.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/graph-send-email-from-csv-onbehalf-of-user/assets/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "graph-send-email-from-csv-onbehalf-of-user/assets/preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/graph-send-email-from-csv-onbehalf-of-user/assets/sample.json",
+      "output": {
+        "resource": {
+          "relative_path": "graph-send-email-from-csv-onbehalf-of-user/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/graph-send-email-from-csv-onbehalf-of-user/assets/secret_santa.jpg",
+      "output": {
+        "resource": {
+          "relative_path": "graph-send-email-from-csv-onbehalf-of-user/assets/secret_santa.jpg"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "../scripts/graph-upload-file-to-sharepoint/README.md",
       "output": {
         ".html": {
@@ -8780,7 +8859,7 @@
       "output": {
         ".html": {
           "relative_path": "cmdusage.html",
-          "hash": "D3016u2PcV9kIn7VlKQBLg=="
+          "hash": "Fl5NdDjkB/HSgfqSobsBcQ=="
         }
       },
       "is_incremental": false,
@@ -8913,7 +8992,7 @@
       "output": {
         ".html": {
           "relative_path": "matrix.html",
-          "hash": "TOL7qFgFOWuK+RAdVrut1g=="
+          "hash": "7PkbeOD2c9DpnbESoRPphQ=="
         }
       },
       "is_incremental": false,
@@ -8925,7 +9004,7 @@
       "output": {
         ".html": {
           "relative_path": "metadata.html",
-          "hash": "EzGmSwp4dKPrqTAqJVJW9g=="
+          "hash": "ptWTaZ4Wymb9ghOeefHXvw=="
         }
       },
       "is_incremental": false,
