@@ -5189,6 +5189,41 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "../scripts/spo-get-items-not-indexed-since-last-update/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "spo-get-items-not-indexed-since-last-update/README.html",
+          "hash": "cobJrHelHU2EM99zc1KO9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": "",
+      "plugin": "add-to-gallery"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-get-items-not-indexed-since-last-update/assets/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-get-items-not-indexed-since-last-update/assets/preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-get-items-not-indexed-since-last-update/assets/sample.json",
+      "output": {
+        "resource": {
+          "relative_path": "spo-get-items-not-indexed-since-last-update/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "../scripts/spo-get-list-library-permission-export-to-csv/README.md",
       "output": {
         ".html": {
@@ -8859,7 +8894,7 @@
       "output": {
         ".html": {
           "relative_path": "cmdusage.html",
-          "hash": "Fl5NdDjkB/HSgfqSobsBcQ=="
+          "hash": "qnGdfR+J1ksUIfT/YFzAvw=="
         }
       },
       "is_incremental": false,
@@ -8992,7 +9027,7 @@
       "output": {
         ".html": {
           "relative_path": "matrix.html",
-          "hash": "7PkbeOD2c9DpnbESoRPphQ=="
+          "hash": "62cE6ZqmZCAsNnZSC2/Tug=="
         }
       },
       "is_incremental": false,
@@ -9004,7 +9039,7 @@
       "output": {
         ".html": {
           "relative_path": "metadata.html",
-          "hash": "ptWTaZ4Wymb9ghOeefHXvw=="
+          "hash": "LcLCIzLTqgbwugLLjxWYfw=="
         }
       },
       "is_incremental": false,
