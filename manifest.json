@@ -3178,6 +3178,52 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "../scripts/spo-associate-multiple-sites-to-hub/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "spo-associate-multiple-sites-to-hub/README.html",
+          "hash": "9IVYVJKj/8ELZeh2RHsPBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "",
+      "plugin": "add-to-gallery"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-associate-multiple-sites-to-hub/assets/example.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-associate-multiple-sites-to-hub/assets/example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-associate-multiple-sites-to-hub/assets/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-associate-multiple-sites-to-hub/assets/preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-associate-multiple-sites-to-hub/assets/sample.json",
+      "output": {
+        "resource": {
+          "relative_path": "spo-associate-multiple-sites-to-hub/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "../scripts/spo-bulk-import-data/README.md",
       "output": {
         ".html": {
@@ -8894,7 +8940,7 @@
       "output": {
         ".html": {
           "relative_path": "cmdusage.html",
-          "hash": "qnGdfR+J1ksUIfT/YFzAvw=="
+          "hash": "+KCMxFsIQ5nbbDrdYbNhtA=="
         }
       },
       "is_incremental": false,
@@ -9027,7 +9073,7 @@
       "output": {
         ".html": {
           "relative_path": "matrix.html",
-          "hash": "62cE6ZqmZCAsNnZSC2/Tug=="
+          "hash": "tRUNrJt/74bZrY6Nznulcw=="
         }
       },
       "is_incremental": false,
@@ -9039,7 +9085,7 @@
       "output": {
         ".html": {
           "relative_path": "metadata.html",
-          "hash": "LcLCIzLTqgbwugLLjxWYfw=="
+          "hash": "0OPaQJhqxJaYlEh9/rgS2w=="
         }
       },
       "is_incremental": false,
