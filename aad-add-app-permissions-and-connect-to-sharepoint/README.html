@@ -5,7 +5,7 @@
   <head>
     <meta charset="utf-8">
     <title>Create AD app and connect to SharePoint Online | PnP Samples </title>
-    <meta name="viewport" content="width=device-width">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" "="">
     <meta name="title" content="Create AD app and connect to SharePoint Online | PnP Samples ">
     <meta name="generator" content="docfx 2.56.7.0">
     <meta name="description" content="A sample gallery of scripts to manage all things Microsoft 365.">
@@ -18,6 +18,7 @@
     <meta property="og:image" content="https://pnp.github.io/script-samples/assets/social-media-screenshot.png">
     <meta property="og:image:alt" content="Screenshot example of the PnP Script Samples Site">
     <meta property="og:site_name" content="PnP Script Samples">
+    <meta name="msvalidate.01" content="04EFEDA66EC42C08A1247C979E2F9ADD">
     <meta property="og:description" content="A sample gallery of scripts to manage all things Microsoft 365.">
   
     <link rel="shortcut icon" href="https://c.s-microsoft.com/favicon.ico?v2">
@@ -131,17 +132,17 @@ $svcprincipalSharePoint.AppRoles | FT ID, DisplayName
 # Show the Delegated Permissions
 $svcprincipalSharePoint.Oauth2Permissions | FT ID, UserConsentDisplayName
 
-$Sharepoint = New-Object -TypeName &quot;Microsoft.Open.AzureAD.Model.RequiredResourceAccess&quot;
-$Sharepoint.ResourceAppId = $svcprincipalSharePoint.AppId
+$SharePoint = New-Object -TypeName &quot;Microsoft.Open.AzureAD.Model.RequiredResourceAccess&quot;
+$SharePoint.ResourceAppId = $svcprincipalSharePoint.AppId
 
 # Add permissions to the app
 $applicationPermissions = New-Object -TypeName &quot;Microsoft.Open.AzureAD.Model.ResourceAccess&quot; -ArgumentList &quot;9bff6588-13f2-4c48-bbf2-ddab62256b36&quot;,&quot;Scope&quot; # Read and write items and lists in all site collections
 $delegatedPermission = New-Object -TypeName &quot;Microsoft.Open.AzureAD.Model.ResourceAccess&quot; -ArgumentList &quot;2cfdc887-d7b4-4798-9b33-3d98d6b95dd2&quot;,&quot;Scope&quot; # Read and write your files
-$Sharepoint.ResourceAccess = $delegatedPermission , $applicationPermissions
+$SharePoint.ResourceAccess = $delegatedPermission , $applicationPermissions
 
 $ADApplication = Get-AzureADApplication -All $true | ? { $_.AppId -match $newApp.AppId }
  
-Set-AzureADApplication -ObjectId $ADApplication.ObjectId -RequiredResourceAccess $Sharepoint
+Set-AzureADApplication -ObjectId $ADApplication.ObjectId -RequiredResourceAccess $SharePoint
 
 
 # Connect to SharePoint Online
@@ -165,7 +166,7 @@ Get-pnpSite
 </table>
 <h2 id="disclaimer">Disclaimer</h2>
 <p><strong>THESE SAMPLES ARE PROVIDED <em>AS IS</em> WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.</strong></p>
-<img src="https://pnptelemetry.azurewebsites.net/script-samples/scripts/aad-add-app-permissions-and-connect-to-sharepoint" aria-hidden="true">
+<img src="https://m365-visitor-stats.azurewebsites.net/script-samples/scripts/aad-add-app-permissions-and-connect-to-sharepoint" aria-hidden="true">
 </section>
 </div>
 </article>

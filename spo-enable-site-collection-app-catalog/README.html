@@ -5,7 +5,7 @@
   <head>
     <meta charset="utf-8">
     <title>Enable Site Collection App Catalog on a specific sites using CSV | PnP Samples </title>
-    <meta name="viewport" content="width=device-width">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" "="">
     <meta name="title" content="Enable Site Collection App Catalog on a specific sites using CSV | PnP Samples ">
     <meta name="generator" content="docfx 2.56.7.0">
     <meta name="description" content="A sample gallery of scripts to manage all things Microsoft 365.">
@@ -18,6 +18,7 @@
     <meta property="og:image" content="https://pnp.github.io/script-samples/assets/social-media-screenshot.png">
     <meta property="og:image:alt" content="Screenshot example of the PnP Script Samples Site">
     <meta property="og:site_name" content="PnP Script Samples">
+    <meta name="msvalidate.01" content="04EFEDA66EC42C08A1247C979E2F9ADD">
     <meta property="og:description" content="A sample gallery of scripts to manage all things Microsoft 365.">
   
     <link rel="shortcut icon" href="https://c.s-microsoft.com/favicon.ico?v2">
@@ -132,7 +133,7 @@
 <pre><code class="lang-powershell"># Example: .\Enable-SiteCollectionAppCatalog.ps1 -AdminUrl &quot;https://contoso-admin.sharepoint.com&quot; -CsvPath &quot;.\SiteURLs.csv&quot;
 [CmdletBinding()]
 param (
-    [Parameter(Mandatory = $true, HelpMessage = &quot;URL of the SharePoint Admin Centre, e.g.https://contoso-admin.sharepoint.com&quot;)]
+    [Parameter(Mandatory = $true, HelpMessage = &quot;URL of the SharePoint Admin Center, e.g.https://contoso-admin.sharepoint.com&quot;)]
     [string]$AdminUrl,
     [Parameter(Mandatory = $false, HelpMessage = &quot;Path to CSV file with list of SharePoint sites to enable Site Collection App Catalog&quot;)]
     [string]$CsvPath = &quot;.\SiteURLs.csv&quot;
@@ -168,7 +169,7 @@ end {
 <pre><code class="lang-powershell"># Example: .\Enable-SiteCollectionAppCatalog.ps1 -AdminUrl &quot;https://contoso-admin.sharepoint.com&quot; -CsvPath &quot;.\SiteURLs.csv&quot;
 [CmdletBinding()]
 param (
-    [Parameter(Mandatory = $true, HelpMessage = &quot;URL of the SharePoint Admin Centre, e.g.https://contoso-admin.sharepoint.com&quot;)]
+    [Parameter(Mandatory = $true, HelpMessage = &quot;URL of the SharePoint Admin Center, e.g.https://contoso-admin.sharepoint.com&quot;)]
     [string]$AdminUrl,
     [Parameter(Mandatory = $false, HelpMessage = &quot;Path to CSV file with list of SharePoint sites to enable Site Collection App Catalog&quot;)]
     [string]$CsvPath = &quot;.\SiteURLs.csv&quot;
@@ -176,7 +177,7 @@ param (
 
 begin  {
     Write-Host &quot;Connecting to SharePoint Admin Site '$($AdminUrl)'&quot; -f Yellow
-    Connect-PnPOnline -Url $TenantAdminURL
+    Connect-PnPOnline -Url $AdminUrl
 }
 process {
     $data = Import-Csv -Path $CsvPath
@@ -264,7 +265,7 @@ https://contoso.sharepoint.com/sites/Retail
 </table>
 <h2 id="disclaimer">Disclaimer</h2>
 <p><strong>THESE SAMPLES ARE PROVIDED <em>AS IS</em> WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.</strong></p>
-<img src="https://pnptelemetry.azurewebsites.net/script-samples/scripts/spo-enable-site-collection-app-catalog" aria-hidden="true">
+<img src="https://m365-visitor-stats.azurewebsites.net/script-samples/scripts/spo-enable-site-collection-app-catalog" aria-hidden="true">
 </article>
           </div>
         </div>
