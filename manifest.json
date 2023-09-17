@@ -832,6 +832,41 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "../scripts/export-inactive-sites-based-on-days-to-csv/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "export-inactive-sites-based-on-days-to-csv/README.html",
+          "hash": "OSdCpas1rWsPhF+Zy63Alw=="
+        }
+      },
+      "is_incremental": false,
+      "version": "",
+      "plugin": "add-to-gallery"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/export-inactive-sites-based-on-days-to-csv/assets/example.png",
+      "output": {
+        "resource": {
+          "relative_path": "export-inactive-sites-based-on-days-to-csv/assets/example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/export-inactive-sites-based-on-days-to-csv/assets/sample.json",
+      "output": {
+        "resource": {
+          "relative_path": "export-inactive-sites-based-on-days-to-csv/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "../scripts/export-onedrive-sites-details-to-csv/README.md",
       "output": {
         ".html": {
@@ -4607,7 +4642,7 @@
       "output": {
         ".html": {
           "relative_path": "spo-create-library-add-contenttype/README.html",
-          "hash": "TZro2STGYT6WsPbA7BFv+g=="
+          "hash": "rcUIrx6d+TtwQGF9V69CEA=="
         }
       },
       "is_incremental": false,
@@ -9692,6 +9727,63 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "../scripts/teams-export-channel-conversations-to-html/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "teams-export-channel-conversations-to-html/README.html",
+          "hash": "VOrZWJcw39czhsqD5huGGQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": "",
+      "plugin": "add-to-gallery"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/teams-export-channel-conversations-to-html/assets/20230913-174449.html",
+      "output": {
+        "resource": {
+          "relative_path": "teams-export-channel-conversations-to-html/assets/20230913-174449.html"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/teams-export-channel-conversations-to-html/assets/Output.png",
+      "output": {
+        "resource": {
+          "relative_path": "teams-export-channel-conversations-to-html/assets/Output.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/teams-export-channel-conversations-to-html/assets/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "teams-export-channel-conversations-to-html/assets/preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/teams-export-channel-conversations-to-html/assets/sample.json",
+      "output": {
+        "resource": {
+          "relative_path": "teams-export-channel-conversations-to-html/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "../scripts/teams-export-teams-information/README.md",
       "output": {
         ".html": {
@@ -10864,7 +10956,7 @@
       "output": {
         ".html": {
           "relative_path": "cmdusage.html",
-          "hash": "Om9JD6RirxjyRXVszuFW1w=="
+          "hash": "sOsgWorTK5mSztqOfIT1Yg=="
         }
       },
       "is_incremental": false,
@@ -10997,7 +11089,7 @@
       "output": {
         ".html": {
           "relative_path": "matrix.html",
-          "hash": "wpes6rUoMsUAMlexrvZk/A=="
+          "hash": "/TPWAdFrYt/o8DqSQcgQnQ=="
         }
       },
       "is_incremental": false,
@@ -11009,7 +11101,7 @@
       "output": {
         ".html": {
           "relative_path": "metadata.html",
-          "hash": "SX6LsapmbjMvS/3Md0s5fA=="
+          "hash": "jFaO6Dwt+DpNRtCpByzYKw=="
         }
       },
       "is_incremental": false,
