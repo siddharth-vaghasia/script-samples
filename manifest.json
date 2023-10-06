@@ -613,6 +613,52 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "../scripts/azure-open-ai-byod-powershell/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "azure-open-ai-byod-powershell/README.html",
+          "hash": "Jg4B6qa0SKPRG3ZqzlVmgg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "",
+      "plugin": "add-to-gallery"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/azure-open-ai-byod-powershell/assets/example.png",
+      "output": {
+        "resource": {
+          "relative_path": "azure-open-ai-byod-powershell/assets/example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/azure-open-ai-byod-powershell/assets/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "azure-open-ai-byod-powershell/assets/preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/azure-open-ai-byod-powershell/assets/sample.json",
+      "output": {
+        "resource": {
+          "relative_path": "azure-open-ai-byod-powershell/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "../scripts/bulk-restore-from-recyclebin/README.md",
       "output": {
         ".html": {
@@ -836,7 +882,7 @@
       "output": {
         ".html": {
           "relative_path": "export-inactive-sites-based-on-days-to-csv/README.html",
-          "hash": "OSdCpas1rWsPhF+Zy63Alw=="
+          "hash": "cwenz0y96vfX0EqR/V31ZA=="
         }
       },
       "is_incremental": false,
@@ -849,6 +895,17 @@
       "output": {
         "resource": {
           "relative_path": "export-inactive-sites-based-on-days-to-csv/assets/example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/export-inactive-sites-based-on-days-to-csv/assets/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "export-inactive-sites-based-on-days-to-csv/assets/preview.png"
         }
       },
       "is_incremental": false,
@@ -2331,6 +2388,52 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "../scripts/pnp-modern-searchv3-scanner/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "pnp-modern-searchv3-scanner/README.html",
+          "hash": "XblvpBWe4ac6mF6TWgdTmg=="
+        }
+      },
+      "is_incremental": false,
+      "version": "",
+      "plugin": "add-to-gallery"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/pnp-modern-searchv3-scanner/assets/example.png",
+      "output": {
+        "resource": {
+          "relative_path": "pnp-modern-searchv3-scanner/assets/example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/pnp-modern-searchv3-scanner/assets/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "pnp-modern-searchv3-scanner/assets/preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/pnp-modern-searchv3-scanner/assets/sample.json",
+      "output": {
+        "resource": {
+          "relative_path": "pnp-modern-searchv3-scanner/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "../scripts/power-automate-replace-owner/README.md",
       "output": {
         ".html": {
@@ -2587,7 +2690,7 @@
       "output": {
         ".html": {
           "relative_path": "reset-files-permission-unique-to-inherited/README.html",
-          "hash": "qJzVgRVr9a6QPkRPTSf32A=="
+          "hash": "c2qAECthBGXOWq83gaPSxw=="
         }
       },
       "is_incremental": false,
@@ -3058,6 +3161,52 @@
       "output": {
         "resource": {
           "relative_path": "spo-add-formextension-to-list/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../scripts/spo-add-language-settings/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "spo-add-language-settings/README.html",
+          "hash": "73dFIqfGX88DMoW9Zom7+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": "",
+      "plugin": "add-to-gallery"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-add-language-settings/assets/example.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-add-language-settings/assets/example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-add-language-settings/assets/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-add-language-settings/assets/preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-add-language-settings/assets/sample.json",
+      "output": {
+        "resource": {
+          "relative_path": "spo-add-language-settings/assets/sample.json"
         }
       },
       "is_incremental": false,
@@ -3965,6 +4114,52 @@
       "output": {
         "resource": {
           "relative_path": "spo-associate-multiple-sites-to-hub/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../scripts/spo-bulk-creation-sharepoint-sites-csv/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "spo-bulk-creation-sharepoint-sites-csv/README.html",
+          "hash": "AIiOZxn/BHK945ZuWLNb4w=="
+        }
+      },
+      "is_incremental": false,
+      "version": "",
+      "plugin": "add-to-gallery"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-bulk-creation-sharepoint-sites-csv/assets/example.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-bulk-creation-sharepoint-sites-csv/assets/example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-bulk-creation-sharepoint-sites-csv/assets/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-bulk-creation-sharepoint-sites-csv/assets/preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-bulk-creation-sharepoint-sites-csv/assets/sample.json",
+      "output": {
+        "resource": {
+          "relative_path": "spo-bulk-creation-sharepoint-sites-csv/assets/sample.json"
         }
       },
       "is_incremental": false,
@@ -5444,6 +5639,41 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "../scripts/spo-export-all-customformatting/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "spo-export-all-customformatting/README.html",
+          "hash": "E+rbdMr+kBigX61o97QBSA=="
+        }
+      },
+      "is_incremental": false,
+      "version": "",
+      "plugin": "add-to-gallery"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-export-all-customformatting/assets/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-export-all-customformatting/assets/preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-export-all-customformatting/assets/sample.json",
+      "output": {
+        "resource": {
+          "relative_path": "spo-export-all-customformatting/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "../scripts/spo-export-all-site-pages-details/README.md",
       "output": {
         ".html": {
@@ -5875,6 +6105,52 @@
       "output": {
         "resource": {
           "relative_path": "spo-export-people-web-part-users/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../scripts/spo-export-report-files-incidents/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "spo-export-report-files-incidents/README.html",
+          "hash": "/o+zCAM99Jv1c2+6W3OZ7A=="
+        }
+      },
+      "is_incremental": false,
+      "version": "",
+      "plugin": "add-to-gallery"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-export-report-files-incidents/assets/example.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-export-report-files-incidents/assets/example.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-export-report-files-incidents/assets/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-export-report-files-incidents/assets/preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-export-report-files-incidents/assets/sample.json",
+      "output": {
+        "resource": {
+          "relative_path": "spo-export-report-files-incidents/assets/sample.json"
         }
       },
       "is_incremental": false,
@@ -8013,6 +8289,41 @@
       "output": {
         "resource": {
           "relative_path": "spo-most-recent-update-report/assets/sample.json"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "../scripts/spo-move-files-library-sites/README.md",
+      "output": {
+        ".html": {
+          "relative_path": "spo-move-files-library-sites/README.html",
+          "hash": "nEmz5sc7Zh511ao2YR3X9g=="
+        }
+      },
+      "is_incremental": false,
+      "version": "",
+      "plugin": "add-to-gallery"
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-move-files-library-sites/assets/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "spo-move-files-library-sites/assets/preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "../scripts/spo-move-files-library-sites/assets/sample.json",
+      "output": {
+        "resource": {
+          "relative_path": "spo-move-files-library-sites/assets/sample.json"
         }
       },
       "is_incremental": false,
@@ -10956,7 +11267,7 @@
       "output": {
         ".html": {
           "relative_path": "cmdusage.html",
-          "hash": "sOsgWorTK5mSztqOfIT1Yg=="
+          "hash": "Aqr832E9I6Z5WlABX6N44g=="
         }
       },
       "is_incremental": false,
@@ -11089,7 +11400,7 @@
       "output": {
         ".html": {
           "relative_path": "matrix.html",
-          "hash": "/TPWAdFrYt/o8DqSQcgQnQ=="
+          "hash": "H8dkknFCdSN9kBjnSbSYmg=="
         }
       },
       "is_incremental": false,
@@ -11101,7 +11412,7 @@
       "output": {
         ".html": {
           "relative_path": "metadata.html",
-          "hash": "jFaO6Dwt+DpNRtCpByzYKw=="
+          "hash": "U5tRubZlFrfVMn1mFk3YZA=="
         }
       },
       "is_incremental": false,
