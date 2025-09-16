@@ -5,7 +5,7 @@
   <head>
     <meta charset="utf-8">
     <title>Request Reindex of SharePoint User Profile Properties | PnP Samples </title>
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" "="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="title" content="Request Reindex of SharePoint User Profile Properties | PnP Samples ">
     <meta name="generator" content="docfx 2.56.7.0">
     <meta name="description" content="A sample gallery of scripts to manage all things Microsoft 365.">
@@ -115,10 +115,7 @@ Import-Module reindexusers.psm1 -Verbose
 <a href="#tabpanel_CeZOj-G++Q_pnpps" role="tab" aria-controls="tabpanel_CeZOj-G++Q_pnpps" data-tab="pnpps" tabindex="0" aria-selected="true">PnP PowerShell</a>
 </li>
 </ul>
-<section id="tabpanel_CeZOj-G++Q_pnpps" role="tabpanel" data-tab="pnpps"><button class="article-clipboard" title="Copy to clipboard" data-toggle="tooltip" data-placement="top" data-clipboard-target="section[id^='tabpanel'][data-tab='pnpps'] pre">
-    <span class="glyphicon glyphicon-copy" aria-hidden="true"></span>
-    <span class="article-clipboard__message done">Copied</span>
-</button>
+<section id="tabpanel_CeZOj-G++Q_pnpps" role="tabpanel" data-tab="pnpps">
 
 <pre><code class="lang-powershell">
 &lt;# Script to trigger the Re-index of SPO user profiles
@@ -208,17 +205,20 @@ Request-PnPReindexUserProfile -url https://contoso.sharepoint.com/sites/IT -Docu
         # Put the template file together
         $fragmentTemplate = &quot;{{&quot;&quot;IdName&quot;&quot;: &quot;&quot;{0}&quot;&quot;,&quot;&quot;Department&quot;&quot;: &quot;&quot;{1}&quot;&quot;}}&quot;;
         $accountFragments = @();
-        
+
         foreach ($Profile in $ProfileList) {
-            $aadId =  $Profile.aadobjectid + &quot;&quot;
-            $dept = $Profile.department + &quot;&quot;
+            # Escape special JSON characters in the string values
+            $aadId = $Profile.aadobjectid -replace '\\', '\\\\' -replace '&quot;', '\&quot;'
+            $dept = $Profile.department -replace '\\', '\\\\' -replace '&quot;', '\&quot;'
+
             if(-not [string]::IsNullOrWhiteSpace($aadId) -and $aadId -ne &quot;00000000-0000-0000-0000-000000000000&quot;) {
-                $accountFragments += [string]::Format($fragmentTemplate,$aadId,$dept)
+                $accountFragments += [string]::Format($fragmentTemplate, $aadId, $dept)
             }
         }
 
         Write-Output &quot;Found $($accountFragments.Count) profiles&quot;
         $json = &quot;{&quot;&quot;value&quot;&quot;:[&quot; + ($accountFragments -join ',') + &quot;]}&quot;
+
         
         $propertyMap = @{}
         $propertyMap.Add(&quot;Department&quot;, &quot;Department&quot;)
@@ -266,6 +266,9 @@ Request-PnPReindexUserProfile -url https://contoso.sharepoint.com/sites/IT -Docu
 <div class="highlight-tool">
 <p>Check out the <strong>PnP PowerShell</strong> to learn more at: <a href="https://aka.ms/pnp/powershell">https://aka.ms/pnp/powershell</a></p>
 </div>
+<div class="highlight-tool">
+<p>The way you login into PnP PowerShell has changed please read <a href="https://github.com/pnp/powershell/discussions/4249">PnP Management Shell EntraID app is deleted : what should I do ?</a></p>
+</div>
 </section>
 </div>
 <h2 id="source-credit">Source Credit</h2>
@@ -278,6 +281,9 @@ Request-PnPReindexUserProfile -url https://contoso.sharepoint.com/sites/IT -Docu
 </tr>
 </thead>
 <tbody>
+<tr>
+<td>Valeras Narbutas</td>
+</tr>
 <tr>
 <td>Mikael Svenson</td>
 </tr>

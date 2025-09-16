@@ -76,16 +76,56 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Add-PnPFile.html"
   },
   {
+    "cmd": "Add-PnPFileAnonymousSharingLink",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Add-PnPFileAnonymousSharingLink.html"
+  },
+  {
+    "cmd": "Add-PnPFileOrganizationalSharingLink",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Add-PnPFileOrganizationalSharingLink.html"
+  },
+  {
+    "cmd": "Add-PnPFileSharingInvite",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Add-PnPFileSharingInvite.html"
+  },
+  {
     "cmd": "Add-PnPFileToSiteTemplate",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Add-PnPFileToSiteTemplate.html"
+  },
+  {
+    "cmd": "Add-PnPFileUserSharingLink",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Add-PnPFileUserSharingLink.html"
+  },
+  {
+    "cmd": "Add-PnPFlowOwner",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Add-PnPFlowOwner.html"
   },
   {
     "cmd": "Add-PnPFolder",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Add-PnPFolder.html"
   },
   {
+    "cmd": "Add-PnPFolderAnonymousSharingLink",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Add-PnPFolderAnonymousSharingLink.html"
+  },
+  {
+    "cmd": "Add-PnPFolderOrganizationalSharingLink",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Add-PnPFolderOrganizationalSharingLink.html"
+  },
+  {
+    "cmd": "Add-PnPFolderSharingInvite",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Add-PnPFolderSharingInvite.html"
+  },
+  {
+    "cmd": "Add-PnPFolderUserSharingLink",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Add-PnPFolderUserSharingLink.html"
+  },
+  {
     "cmd": "Add-PnPGroupMember",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Add-PnPGroupMember.html"
+  },
+  {
+    "cmd": "Add-PnPHomeSite",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Add-PnPHomeSite.html"
   },
   {
     "cmd": "Add-PnPHtmlPublishingPageLayout",
@@ -276,6 +316,10 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Add-PnPTenantCdnOrigin.html"
   },
   {
+    "cmd": "Add-PnPTenantRestrictedSearchAllowedList",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Add-PnPTenantRestrictedSearchAllowedList.html"
+  },
+  {
     "cmd": "Add-PnPTenantSequence",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Add-PnPTenantSequence.html"
   },
@@ -368,6 +412,10 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Connect-PnPOnline.html"
   },
   {
+    "cmd": "Convert-PnPFile",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Convert-PnPFile.html"
+  },
+  {
     "cmd": "Convert-PnPFolderToSiteTemplate",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Convert-PnPFolderToSiteTemplate.html"
   },
@@ -378,10 +426,6 @@
   {
     "cmd": "Convert-PnPSiteTemplateToMarkdown",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Convert-PnPSiteTemplateToMarkdown.html"
-  },
-  {
-    "cmd": "ConvertTo-PnPClientSidePage",
-    "helpUrl": "https://pnp.github.io/powershell/cmdlets/ConvertTo-PnPClientSidePage.html"
   },
   {
     "cmd": "ConvertTo-PnPPage",
@@ -464,6 +508,10 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Enable-PnPPowerShellTelemetry.html"
   },
   {
+    "cmd": "Enable-PnPPriviledgedIdentityManagement",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Enable-PnPPriviledgedIdentityManagement.html"
+  },
+  {
     "cmd": "Enable-PnPSiteClassification",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Enable-PnPSiteClassification.html"
   },
@@ -486,6 +534,10 @@
   {
     "cmd": "Export-PnPPageMapping",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Export-PnPPageMapping.html"
+  },
+  {
+    "cmd": "Export-PnPPowerApp",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Export-PnPPowerApp.html"
   },
   {
     "cmd": "Export-PnPTaxonomy",
@@ -520,10 +572,6 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPApp.html"
   },
   {
-    "cmd": "Get-PnPAppAuthAccessToken",
-    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPAppAuthAccessToken.html"
-  },
-  {
     "cmd": "Get-PnPAppErrors",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPAppErrors.html"
   },
@@ -554,6 +602,10 @@
   {
     "cmd": "Get-PnPAvailableSiteClassification",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPAvailableSiteClassification.html"
+  },
+  {
+    "cmd": "Get-PnPAzureACSPrincipal",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPAzureACSPrincipal.html"
   },
   {
     "cmd": "Get-PnPAzureADActivityReportDirectoryAudit",
@@ -632,6 +684,18 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPConnection.html"
   },
   {
+    "cmd": "Get-PnPContainer",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPContainer.html"
+  },
+  {
+    "cmd": "Get-PnPContainerType",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPContainerType.html"
+  },
+  {
+    "cmd": "Get-PnPContainerTypeConfiguration",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPContainerTypeConfiguration.html"
+  },
+  {
     "cmd": "Get-PnPContentType",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPContentType.html"
   },
@@ -654,6 +718,14 @@
   {
     "cmd": "Get-PnPDefaultColumnValues",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPDefaultColumnValues.html"
+  },
+  {
+    "cmd": "Get-PnPDeletedContainer",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPDeletedContainer.html"
+  },
+  {
+    "cmd": "Get-PnPDeletedFlow",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPDeletedFlow.html"
   },
   {
     "cmd": "Get-PnPDeletedMicrosoft365Group",
@@ -700,12 +772,32 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPFile.html"
   },
   {
+    "cmd": "Get-PnPFileAnalyticsData",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPFileAnalyticsData.html"
+  },
+  {
+    "cmd": "Get-PnPFileInFolder",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPFileInFolder.html"
+  },
+  {
+    "cmd": "Get-PnPFileSensitivityLabelInfo",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPFileSensitivityLabelInfo.html"
+  },
+  {
+    "cmd": "Get-PnPFileSharingLink",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPFileSharingLink.html"
+  },
+  {
     "cmd": "Get-PnPFileVersion",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPFileVersion.html"
   },
   {
     "cmd": "Get-PnPFlow",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPFlow.html"
+  },
+  {
+    "cmd": "Get-PnPFlowOwner",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPFlowOwner.html"
   },
   {
     "cmd": "Get-PnPFlowRun",
@@ -716,16 +808,24 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPFolder.html"
   },
   {
+    "cmd": "Get-PnPFolderInFolder",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPFolderInFolder.html"
+  },
+  {
     "cmd": "Get-PnPFolderItem",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPFolderItem.html"
   },
   {
-    "cmd": "Get-PnPFooter",
-    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPFooter.html"
+    "cmd": "Get-PnPFolderSharingLink",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPFolderSharingLink.html"
   },
   {
-    "cmd": "Get-PnPGraphAccessToken",
-    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPGraphAccessToken.html"
+    "cmd": "Get-PnPFolderStorageMetric",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPFolderStorageMetric.html"
+  },
+  {
+    "cmd": "Get-PnPFooter",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPFooter.html"
   },
   {
     "cmd": "Get-PnPGraphSubscription",
@@ -788,6 +888,18 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPLabel.html"
   },
   {
+    "cmd": "Get-PnPLargeListOperationStatus",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPLargeListOperationStatus.html"
+  },
+  {
+    "cmd": "Get-PnPLibraryFileVersionBatchDeleteJobStatus",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPLibraryFileVersionBatchDeleteJobStatus.html"
+  },
+  {
+    "cmd": "Get-PnPLibraryFileVersionExpirationReportJobStatus",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPLibraryFileVersionExpirationReportJobStatus.html"
+  },
+  {
     "cmd": "Get-PnPList",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPList.html"
   },
@@ -804,8 +916,8 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPListItem.html"
   },
   {
-    "cmd": "Get-PnPListItemAttachments",
-    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPListItemAttachments.html"
+    "cmd": "Get-PnPListItemAttachment",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPListItemAttachment.html"
   },
   {
     "cmd": "Get-PnPListItemComment",
@@ -816,12 +928,20 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPListItemPermission.html"
   },
   {
+    "cmd": "Get-PnPListItemVersion",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPListItemVersion.html"
+  },
+  {
     "cmd": "Get-PnPListPermissions",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPListPermissions.html"
   },
   {
     "cmd": "Get-PnPListRecordDeclaration",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPListRecordDeclaration.html"
+  },
+  {
+    "cmd": "Get-PnPManagedAppId",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPManagedAppId.html"
   },
   {
     "cmd": "Get-PnPMasterPage",
@@ -888,6 +1008,14 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPPageComponent.html"
   },
   {
+    "cmd": "Get-PnPPageLikedByInformation",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPPageLikedByInformation.html"
+  },
+  {
+    "cmd": "Get-PnPPageSchedulingEnabled",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPPageSchedulingEnabled.html"
+  },
+  {
     "cmd": "Get-PnPPlannerBucket",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPPlannerBucket.html"
   },
@@ -916,12 +1044,32 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPPlannerUserPolicy.html"
   },
   {
+    "cmd": "Get-PnPPowerApp",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPPowerApp.html"
+  },
+  {
+    "cmd": "Get-PnPPowerPlatformCustomConnector",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPPowerPlatformCustomConnector.html"
+  },
+  {
     "cmd": "Get-PnPPowerPlatformEnvironment",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPPowerPlatformEnvironment.html"
   },
   {
+    "cmd": "Get-PnPPowerPlatformSolution",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPPowerPlatformSolution.html"
+  },
+  {
     "cmd": "Get-PnPPowerShellTelemetryEnabled",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPPowerShellTelemetryEnabled.html"
+  },
+  {
+    "cmd": "Get-PnPPriviledgedIdentityManagementEligibleAssignment",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPPriviledgedIdentityManagementEligibleAssignment.html"
+  },
+  {
+    "cmd": "Get-PnPPriviledgedIdentityManagementRole",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPPriviledgedIdentityManagementRole.html"
   },
   {
     "cmd": "Get-PnPProperty",
@@ -956,6 +1104,18 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPSearchCrawlLog.html"
   },
   {
+    "cmd": "Get-PnPSearchExternalConnection",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPSearchExternalConnection.html"
+  },
+  {
+    "cmd": "Get-PnPSearchExternalItem",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPSearchExternalItem.html"
+  },
+  {
+    "cmd": "Get-PnPSearchExternalSchema",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPSearchExternalSchema.html"
+  },
+  {
     "cmd": "Get-PnPSearchSettings",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPSearchSettings.html"
   },
@@ -968,12 +1128,20 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPServiceHealthIssue.html"
   },
   {
+    "cmd": "Get-PnPSharePointAddIn",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPSharePointAddIn.html"
+  },
+  {
     "cmd": "Get-PnPSharingForNonOwnersOfSite",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPSharingForNonOwnersOfSite.html"
   },
   {
     "cmd": "Get-PnPSite",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPSite.html"
+  },
+  {
+    "cmd": "Get-PnPSiteAnalyticsData",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPSiteAnalyticsData.html"
   },
   {
     "cmd": "Get-PnPSiteClosure",
@@ -1012,6 +1180,14 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPSiteDesignTask.html"
   },
   {
+    "cmd": "Get-PnPSiteFileVersionBatchDeleteJobStatus",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPSiteFileVersionBatchDeleteJobStatus.html"
+  },
+  {
+    "cmd": "Get-PnPSiteFileVersionExpirationReportJobStatus",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPSiteFileVersionExpirationReportJobStatus.html"
+  },
+  {
     "cmd": "Get-PnPSiteGroup",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPSiteGroup.html"
   },
@@ -1046,6 +1222,14 @@
   {
     "cmd": "Get-PnPSiteUserInvitations",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPSiteUserInvitations.html"
+  },
+  {
+    "cmd": "Get-PnPSiteVersionPolicy",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPSiteVersionPolicy.html"
+  },
+  {
+    "cmd": "Get-PnPSiteVersionPolicyStatus",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPSiteVersionPolicyStatus.html"
   },
   {
     "cmd": "Get-PnPStorageEntity",
@@ -1164,12 +1348,32 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPTenantId.html"
   },
   {
+    "cmd": "Get-PnPTenantInfo",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPTenantInfo.html"
+  },
+  {
     "cmd": "Get-PnPTenantInstance",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPTenantInstance.html"
   },
   {
+    "cmd": "Get-PnPTenantInternalSetting",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPTenantInternalSetting.html"
+  },
+  {
     "cmd": "Get-PnPTenantRecycleBinItem",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPTenantRecycleBinItem.html"
+  },
+  {
+    "cmd": "Get-PnPTenantRestrictedSearchAllowedList",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPTenantRestrictedSearchAllowedList.html"
+  },
+  {
+    "cmd": "Get-PnPTenantRestrictedSearchMode",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPTenantRestrictedSearchMode.html"
+  },
+  {
+    "cmd": "Get-PnPTenantRetentionLabel",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPTenantRetentionLabel.html"
   },
   {
     "cmd": "Get-PnPTenantSequence",
@@ -1232,6 +1436,10 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPTimeZoneId.html"
   },
   {
+    "cmd": "Get-PnPUnfurlLink",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPUnfurlLink.html"
+  },
+  {
     "cmd": "Get-PnPUnifiedAuditLog",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPUnifiedAuditLog.html"
   },
@@ -1268,8 +1476,8 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPWebHeader.html"
   },
   {
-    "cmd": "Get-PnPWebhookSubscriptions",
-    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPWebhookSubscriptions.html"
+    "cmd": "Get-PnPWebhookSubscription",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPWebhookSubscription.html"
   },
   {
     "cmd": "Get-PnPWebPart",
@@ -1282,6 +1490,10 @@
   {
     "cmd": "Get-PnPWebPartXml",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPWebPartXml.html"
+  },
+  {
+    "cmd": "Get-PnPWebPermission",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Get-PnPWebPermission.html"
   },
   {
     "cmd": "Get-PnPWebTemplates",
@@ -1376,6 +1588,10 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Measure-PnPWeb.html"
   },
   {
+    "cmd": "Merge-PnPTerm",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Merge-PnPTerm.html"
+  },
+  {
     "cmd": "Move-PnPFile",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Move-PnPFile.html"
   },
@@ -1396,6 +1612,14 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Move-PnpRecycleBinItem.html"
   },
   {
+    "cmd": "Move-PnPTerm",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Move-PnPTerm.html"
+  },
+  {
+    "cmd": "Move-PnPTermSet",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Move-PnPTermSet.html"
+  },
+  {
     "cmd": "New-PnPAzureADGroup",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/New-PnPAzureADGroup.html"
   },
@@ -1412,6 +1636,10 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/New-PnPBatch.html"
   },
   {
+    "cmd": "New-PnPContainerType",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/New-PnPContainerType.html"
+  },
+  {
     "cmd": "New-PnPExtensibilityHandlerObject",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/New-PnPExtensibilityHandlerObject.html"
   },
@@ -1422,6 +1650,14 @@
   {
     "cmd": "New-PnPGroup",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/New-PnPGroup.html"
+  },
+  {
+    "cmd": "New-PnPLibraryFileVersionBatchDeleteJob",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/New-PnPLibraryFileVersionBatchDeleteJob.html"
+  },
+  {
+    "cmd": "New-PnPLibraryFileVersionExpirationReportJob",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/New-PnPLibraryFileVersionExpirationReportJob.html"
   },
   {
     "cmd": "New-PnPList",
@@ -1448,12 +1684,24 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/New-PnPSdnProvider.html"
   },
   {
+    "cmd": "New-PnPSearchExternalConnection",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/New-PnPSearchExternalConnection.html"
+  },
+  {
     "cmd": "New-PnPSite",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/New-PnPSite.html"
   },
   {
     "cmd": "New-PnPSiteCollectionTermStore",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/New-PnPSiteCollectionTermStore.html"
+  },
+  {
+    "cmd": "New-PnPSiteFileVersionBatchDeleteJob",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/New-PnPSiteFileVersionBatchDeleteJob.html"
+  },
+  {
+    "cmd": "New-PnPSiteFileVersionExpirationReportJob",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/New-PnPSiteFileVersionExpirationReportJob.html"
   },
   {
     "cmd": "New-PnPSiteGroup",
@@ -1568,6 +1816,10 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Register-PnPAzureADApp.html"
   },
   {
+    "cmd": "Register-PnPEntraIDAppForInteractiveLogin",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Register-PnPEntraIDAppForInteractiveLogin.html"
+  },
+  {
     "cmd": "Register-PnPHubSite",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Register-PnPHubSite.html"
   },
@@ -1616,6 +1868,18 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Remove-PnPAzureADServicePrincipalAssignedAppRole.html"
   },
   {
+    "cmd": "Remove-PnPAzureADUser",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Remove-PnPAzureADUser.html"
+  },
+  {
+    "cmd": "Remove-PnPContainer",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Remove-PnPContainer.html"
+  },
+  {
+    "cmd": "Remove-PnPContainerType",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Remove-PnPContainerType.html"
+  },
+  {
     "cmd": "Remove-PnPContentType",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Remove-PnPContentType.html"
   },
@@ -1660,6 +1924,10 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Remove-PnPFileFromSiteTemplate.html"
   },
   {
+    "cmd": "Remove-PnPFileSharingLink",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Remove-PnPFileSharingLink.html"
+  },
+  {
     "cmd": "Remove-PnPFileVersion",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Remove-PnPFileVersion.html"
   },
@@ -1668,8 +1936,16 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Remove-PnPFlow.html"
   },
   {
+    "cmd": "Remove-PnPFlowOwner",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Remove-PnPFlowOwner.html"
+  },
+  {
     "cmd": "Remove-PnPFolder",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Remove-PnPFolder.html"
+  },
+  {
+    "cmd": "Remove-PnPFolderSharingLink",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Remove-PnPFolderSharingLink.html"
   },
   {
     "cmd": "Remove-PnPGraphSubscription",
@@ -1708,6 +1984,10 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Remove-PnPKnowledgeHubSite.html"
   },
   {
+    "cmd": "Remove-PnPLibraryFileVersionBatchDeleteJob",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Remove-PnPLibraryFileVersionBatchDeleteJob.html"
+  },
+  {
     "cmd": "Remove-PnPList",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Remove-PnPList.html"
   },
@@ -1728,6 +2008,14 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Remove-PnPListItemComments.html"
   },
   {
+    "cmd": "Remove-PnPListItemVersion",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Remove-PnPListItemVersion.html"
+  },
+  {
+    "cmd": "Remove-PnPManagedAppId",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Remove-PnPManagedAppId.html"
+  },
+  {
     "cmd": "Remove-PnPMicrosoft365Group",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Remove-PnPMicrosoft365Group.html"
   },
@@ -1738,6 +2026,10 @@
   {
     "cmd": "Remove-PnPMicrosoft365GroupOwner",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Remove-PnPMicrosoft365GroupOwner.html"
+  },
+  {
+    "cmd": "Remove-PnPMicrosoft365GroupPhoto",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Remove-PnPMicrosoft365GroupPhoto.html"
   },
   {
     "cmd": "Remove-PnPMicrosoft365GroupSettings",
@@ -1804,6 +2096,14 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Remove-PnPSearchConfiguration.html"
   },
   {
+    "cmd": "Remove-PnPSearchExternalConnection",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Remove-PnPSearchExternalConnection.html"
+  },
+  {
+    "cmd": "Remove-PnPSearchExternalItem",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Remove-PnPSearchExternalItem.html"
+  },
+  {
     "cmd": "Remove-PnPSiteCollectionAdmin",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Remove-PnPSiteCollectionAdmin.html"
   },
@@ -1822,6 +2122,10 @@
   {
     "cmd": "Remove-PnPSiteDesignTask",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Remove-PnPSiteDesignTask.html"
+  },
+  {
+    "cmd": "Remove-PnPSiteFileVersionBatchDeleteJob",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Remove-PnPSiteFileVersionBatchDeleteJob.html"
   },
   {
     "cmd": "Remove-PnPSiteGroup",
@@ -1882,6 +2186,10 @@
   {
     "cmd": "Remove-PnPTenantDeletedSite",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Remove-PnPTenantDeletedSite.html"
+  },
+  {
+    "cmd": "Remove-PnPTenantRestrictedSearchAllowedList",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Remove-PnPTenantRestrictedSearchAllowedList.html"
   },
   {
     "cmd": "Remove-PnPTenantSite",
@@ -1960,10 +2268,6 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Repair-PnPSite.html"
   },
   {
-    "cmd": "Request-PnPAccessToken",
-    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Request-PnPAccessToken.html"
-  },
-  {
     "cmd": "Request-PnPPersonalSite",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Request-PnPPersonalSite.html"
   },
@@ -1980,16 +2284,20 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Request-PnPSyntexClassifyAndExtract.html"
   },
   {
+    "cmd": "Reset-PnPDocumentId",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Reset-PnPDocumentId.html"
+  },
+  {
     "cmd": "Reset-PnPFileVersion",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Reset-PnPFileVersion.html"
   },
   {
-    "cmd": "Reset-PnPLabel",
-    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Reset-PnPLabel.html"
-  },
-  {
     "cmd": "Reset-PnPMicrosoft365GroupExpiration",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Reset-PnPMicrosoft365GroupExpiration.html"
+  },
+  {
+    "cmd": "Reset-PnPRetentionLabel",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Reset-PnPRetentionLabel.html"
   },
   {
     "cmd": "Reset-PnPUserOneDriveQuotaToDefault",
@@ -2004,12 +2312,24 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Restart-PnPFlowRun.html"
   },
   {
+    "cmd": "Restore-PnPDeletedContainer",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Restore-PnPDeletedContainer.html"
+  },
+  {
     "cmd": "Restore-PnPDeletedMicrosoft365Group",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Restore-PnPDeletedMicrosoft365Group.html"
   },
   {
     "cmd": "Restore-PnPFileVersion",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Restore-PnPFileVersion.html"
+  },
+  {
+    "cmd": "Restore-PnPFlow",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Restore-PnPFlow.html"
+  },
+  {
+    "cmd": "Restore-PnPListItemVersion",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Restore-PnPListItemVersion.html"
   },
   {
     "cmd": "Restore-PnPRecycleBinItem",
@@ -2192,10 +2512,6 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Set-PnPKnowledgeHubSite.html"
   },
   {
-    "cmd": "Set-PnPLabel",
-    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Set-PnPLabel.html"
-  },
-  {
     "cmd": "Set-PnPList",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Set-PnPList.html"
   },
@@ -2222,6 +2538,10 @@
   {
     "cmd": "Set-PnPListRecordDeclaration",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Set-PnPListRecordDeclaration.html"
+  },
+  {
+    "cmd": "Set-PnPManagedAppId",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Set-PnPManagedAppId.html"
   },
   {
     "cmd": "Set-PnPMasterPage",
@@ -2264,6 +2584,10 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Set-PnPMinimalDownloadStrategy.html"
   },
   {
+    "cmd": "Set-PnPOrgAssetsLibrary",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Set-PnPOrgAssetsLibrary.html"
+  },
+  {
     "cmd": "Set-PnPPage",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Set-PnPPage.html"
   },
@@ -2296,12 +2620,20 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Set-PnPPlannerUserPolicy.html"
   },
   {
+    "cmd": "Set-PnPPowerAppByPassConsent",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Set-PnPPowerAppByPassConsent.html"
+  },
+  {
     "cmd": "Set-PnPPropertyBagValue",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Set-PnPPropertyBagValue.html"
   },
   {
     "cmd": "Set-PnPRequestAccessEmails",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Set-PnPRequestAccessEmails.html"
+  },
+  {
+    "cmd": "Set-PnPRetentionLabel",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Set-PnPRetentionLabel.html"
   },
   {
     "cmd": "Set-PnPRoleDefinition",
@@ -2312,12 +2644,28 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Set-PnPSearchConfiguration.html"
   },
   {
+    "cmd": "Set-PnPSearchExternalConnection",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Set-PnPSearchExternalConnection.html"
+  },
+  {
+    "cmd": "Set-PnPSearchExternalItem",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Set-PnPSearchExternalItem.html"
+  },
+  {
+    "cmd": "Set-PnPSearchExternalSchema",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Set-PnPSearchExternalSchema.html"
+  },
+  {
     "cmd": "Set-PnPSearchSettings",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Set-PnPSearchSettings.html"
   },
   {
     "cmd": "Set-PnPSite",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Set-PnPSite.html"
+  },
+  {
+    "cmd": "Set-PnPSiteArchiveState",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Set-PnPSiteArchiveState.html"
   },
   {
     "cmd": "Set-PnPSiteClassification",
@@ -2354,6 +2702,10 @@
   {
     "cmd": "Set-PnPSiteTemplateMetadata",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Set-PnPSiteTemplateMetadata.html"
+  },
+  {
+    "cmd": "Set-PnPSiteVersionPolicy",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Set-PnPSiteVersionPolicy.html"
   },
   {
     "cmd": "Set-PnPStorageEntity",
@@ -2426,6 +2778,10 @@
   {
     "cmd": "Set-PnPTenantCdnPolicy",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Set-PnPTenantCdnPolicy.html"
+  },
+  {
+    "cmd": "Set-PnPTenantRestrictedSearchMode",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Set-PnPTenantRestrictedSearchMode.html"
   },
   {
     "cmd": "Set-PnPTenantSite",
@@ -2536,8 +2892,16 @@
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Test-PnPTenantTemplate.html"
   },
   {
+    "cmd": "Undo-PnPFileCheckedOut",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Undo-PnPFileCheckedOut.html"
+  },
+  {
     "cmd": "Uninstall-PnPApp",
     "helpUrl": "https://pnp.github.io/powershell/cmdlets/Uninstall-PnPApp.html"
+  },
+  {
+    "cmd": "Unlock-PnPSensitivityLabelEncryptedFile",
+    "helpUrl": "https://pnp.github.io/powershell/cmdlets/Unlock-PnPSensitivityLabelEncryptedFile.html"
   },
   {
     "cmd": "Unpublish-PnPApp",
