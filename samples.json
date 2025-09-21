@@ -1820,11 +1820,9 @@
       "Report"
     ],
     "tags": [
-      "Power Automate",
-      "Get-AdminFlow",
-      "Get-AzureADUser",
-      "Connect-AzureAD",
-      "Get-AdminFlowOwnerRole"
+      "m365 login",
+      "m365 flow get",
+      "m365 flow list"
     ],
     "metadata": [
       {
@@ -1836,7 +1834,7 @@
       {
         "type": "image",
         "order": 100,
-        "url": "flow-inventory-flows-by-author/assets/preview.png",
+        "url": "flow-get-https-triggers-flows-callbackurls/assets/preview.png",
         "alt": "preview image for the sample",
         "slides": null
       }

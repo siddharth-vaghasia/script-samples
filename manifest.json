@@ -1719,6 +1719,17 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "../scripts/flow-get-https-triggers-flows-callbackurls/assets/preview.png",
+      "output": {
+        "resource": {
+          "relative_path": "flow-get-https-triggers-flows-callbackurls/assets/preview.png"
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "../scripts/flow-get-https-triggers-flows-callbackurls/assets/sample.json",
       "output": {
         "resource": {
@@ -15970,7 +15981,7 @@
       "output": {
         ".html": {
           "relative_path": "age.html",
-          "hash": "/gb3rcTJSnNYjqzlFmkayQ=="
+          "hash": "zDmsOqWMTNiI45G+4Srneg=="
         }
       },
       "is_incremental": false,
@@ -16721,7 +16732,7 @@
       "output": {
         ".html": {
           "relative_path": "cmdusage.html",
-          "hash": "Loc5Un3FnY3spOQMesGhUw=="
+          "hash": "ojsfbQypSxOqtJefvujnkg=="
         }
       },
       "is_incremental": false,
@@ -16865,7 +16876,7 @@
       "output": {
         ".html": {
           "relative_path": "matrix.html",
-          "hash": "FFmVg7PGseC9pydHTYxPaA=="
+          "hash": "r028Y9Lv9B0pcuEguG200w=="
         }
       },
       "is_incremental": false,
@@ -16877,7 +16888,7 @@
       "output": {
         ".html": {
           "relative_path": "metadata.html",
-          "hash": "f0l5QFKWVE8E6dhZs1B4iQ=="
+          "hash": "+VN3smEyiRx3a06YJtr/kg=="
         }
       },
       "is_incremental": false,
